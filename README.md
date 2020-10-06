@@ -1,5 +1,5 @@
 # Covid_MSA_code
-This is a simple python program that can be run on Jupyternotebook to produce the Covid-19 data at the MSA level in the US. **COVID_aggregate_by_date** is the main python 
+This is a simple python program that can be run on Jupyter Notebook to produce the Covid-19 data at the MSA level in the US. **COVID_aggregate_by_date** is the main python 
 file used to generate the output. In the main function of the file, you can specify the start date, end date, and interval for the output. Specifying start date and end date
 allows you the see the data only wthin a specific range of time. Interval, inputting as days, allow you to see the cases and deaths in each MSA only within each chunk of days.
 For example, if your interval is one, then that means you will see the daily count of cases and deaths in each MSA.  
