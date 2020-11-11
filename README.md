@@ -12,3 +12,5 @@ program which you can use to output a graph of how Covid-19 cases at a MSA chang
 ## MSA_travel_aggregate
 The folder MSA_travel_aggregate contains a script "travel_aggregate.py" which takes the dataset of travelers to each city produced by Bin as the input and outputs a dataset of travelers to each MSA in the US. The data contains all the travels from February to June.
              
+## model_prediction
+This will be the script containing all the essential functionality for forecasting Covid-19 cases. This is work in progress but right now it has sample plots in which you can see how the number of Covid-19 cases correlate with the number of travelers to a metropolitan area.
