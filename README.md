@@ -8,4 +8,6 @@ For example, if your interval is one, then that means you will see the daily cou
 - Output data: **output.csv** is the output which has the Covid-19 cases and deaths at the MSA level. Each row in the output is a record of how many new cases and deaths have occurred for a MSA within a time interval.
 - There are some other files in the folder as well. **daily_count.csv** allows you to see the count at each day (since the original data is cumulative). **test.py** is a simple
 program which you can use to output a graph of how Covid-19 cases at a MSA changes over time.
+
+# fasdfas
              
