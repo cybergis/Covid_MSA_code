@@ -10,5 +10,5 @@ For example, if your interval is one, then that means you will see the daily cou
 program which you can use to output a graph of how Covid-19 cases at a MSA changes over time.
 
 ## MSA_travel_aggregate
-In the folder MSA_travel_aggregate contains a script "travel_aggregate.py" which takes the dataset of travelers to each city produced by Bin as the input and outputs a dataset of travelers to each MSA in the US. The data contains all the travels from February to June.
+The folder MSA_travel_aggregate contains a script "travel_aggregate.py" which takes the dataset of travelers to each city produced by Bin as the input and outputs a dataset of travelers to each MSA in the US. The data contains all the travels from February to June.
              
