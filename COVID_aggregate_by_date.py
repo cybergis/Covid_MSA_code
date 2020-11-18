@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[33]:
+# In[9]:
 
 
 import sys
@@ -12,7 +12,7 @@ import datetime as dt
 from datetime import timedelta
 
 
-# In[34]:
+# In[10]:
 
 
 def cumulativeToDaily(inputFile):
@@ -20,10 +20,10 @@ def cumulativeToDaily(inputFile):
     copy = pd.read_csv(inputFile)
     data = data.sort_values(by=['county', 'state'])
     copy = copy.sort_values(by=['county', 'state'])
-    data.to_csv("daily count.csv", index = False)
-    data = pd.read_csv("daily count.csv")
-    copy.to_csv("daily count_copy.csv", index = False)
-    copy = pd.read_csv("daily count_copy.csv")
+    data.to_csv("./data/daily count.csv", index = False)
+    data = pd.read_csv("./data/daily count.csv")
+    copy.to_csv("./data/daily count_copy.csv", index = False)
+    copy = pd.read_csv("./data/daily count_copy.csv")
     i = 1
     data['fips'] = data['fips'].fillna(-1)
     while i < len(data.index):
@@ -39,11 +39,11 @@ def cumulativeToDaily(inputFile):
     data["date"] = pd.to_datetime(data["date"])
     data = data.sort_values(by = ['date'])
     # data.to_csv("daily count.csv", index = False)
-
+    
     return data
 
 
-# In[35]:
+# In[11]:
 
 
 def aggregate(covid, metro, startdate, enddate, interval):
@@ -156,67 +156,71 @@ def aggregate(covid, metro, startdate, enddate, interval):
         elif (metro.at[i, 'states_msa'] == "PR"):
             metro.at[i, 'states_msa'] = "Puerto Rico"
         i += 1
-    merged = metro.merge(covid, how='inner',
-                         left_on=["states_msa", "name10_county"],
+    merged = metro.merge(covid, how='inner', 
+                         left_on=["states_msa", "name10_county"], 
                          right_on=["state","county"])
-    merged = merged[['date', 'county', 'cases',
+    merged = merged[['date', 'county', 'cases', 
                      'deaths', 'name_msa', 'states_msa_code', 'states_msa', 'states_msa_full',
-                     'geoid_msa']]
+                     'geoid_msa']]  
     merged["date"] = pd.to_datetime(merged["date"])
     merged = merged[merged.date <= enddate]
     merged = merged[merged.date >= startdate]
-
+     
     iterate_start = startdate
-
+    
     interval_data = merged
     output = pd.DataFrame()
-
+    
     while iterate_start <= enddate:
         iterate_end = iterate_start + timedelta(days=interval)
-
+        
         eachInterval = interval_data[interval_data.date >= iterate_start]
         eachInterval = eachInterval[eachInterval.date <= iterate_end]
-
+        
 
         eachInterval = eachInterval.groupby(['name_msa'])['cases', 'deaths'].sum()
-        eachInterval = eachInterval.merge(metro_initial, left_on='name_msa', right_on='name_msa')[['states_msa_code', 'states_msa',
+        eachInterval = eachInterval.merge(metro_initial, left_on='name_msa', right_on='name_msa')[['states_msa_code', 'states_msa', 
                                     'states_msa_full', "geoid_msa",
                                    'name_msa', 'cases', 'deaths']].sort_values(by = 'states_msa_code')
-        eachInterval['interval_start'] = iterastart
+        eachInterval['interval_start'] = iterate_start
         eachInterval = eachInterval.drop_duplicates(subset=['name_msa'])
         #print(eachInterval)
         output = output.append(eachInterval)
         iterate_start = iterate_start + timedelta(days=interval)
-
+    
     #print(output)
 
-    output.to_csv("output.csv", index = False)
+    output.to_csv("./data/output.csv", index = False)
 
 
-# In[36]:
+# In[12]:
 
 
 if __name__ == "__main__":
-
+    
 #     parser = argparse.ArgumentParser(description = 'Covid-19 data at MSA level')
-
+    
 #     parser.add_argument('--inputFile', type = str, default = "Covid-19 data(unsorted)")
 #     parser.add_argument('--beginDate', type = str)
 #     parser.add_argument('--beginDate', type = str)
-
-    beginDate = dt.datetime(2020, 5, 2)
-    endDate = dt.datetime(2020, 7, 23)
-    interval = 7
-    inputFile = 'Covid-19 cumulative.csv'
-    inputMetro = 'metro_county.csv'
+    
+    beginDate = dt.datetime(2020, 2, 14)
+    endDate = dt.datetime(2020, 6, 11)
+    interval = 1
+    inputFile = './data/Covid-19 cumulative.csv'
+    inputMetro = './data/metro_county.csv'
     # outputFile = 'Aggregated.csv'
-
+    
     #data = cumulativeToDaily(inputFile)
     dailyCount = cumulativeToDaily(inputFile)
-    dailyCount.to_csv("daily count.csv", index = False)
-    inputCovid = pd.read_csv("daily count.csv")
-
+    dailyCount.to_csv("./data/daily count.csv", index = False)
+    inputCovid = pd.read_csv("./data/daily count.csv")
+  
     aggregate(inputCovid, inputMetro, beginDate, endDate, interval)
 
 
 # In[ ]:
+
+
+
+

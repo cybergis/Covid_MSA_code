@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[20]:
+# In[37]:
 
 
 import pandas as pd
 
 
-# In[21]:
+# In[38]:
 
 
 def aggregate_MSA(input_data, write_path):
@@ -42,6 +42,7 @@ def aggregate_MSA(input_data, write_path):
  
     merged1 = merged1.drop_duplicates(subset = ['city', 'state'])
     
+    
     merged2 = merged1.merge(metro_county, how = 'inner',
                         left_on=['County', 'state'], 
                         right_on=['name10_county','states_msa'])
@@ -61,7 +62,7 @@ def aggregate_MSA(input_data, write_path):
     
 
 
-# In[22]:
+# In[39]:
 
 
 if __name__ == "__main__":
