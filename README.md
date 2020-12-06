@@ -19,3 +19,4 @@ This will be the script containing all the essential functionality for forecasti
 The main file that you need to run the code is in **COVID_aggregate_by_date.ipynb**, you can run it in **Jupyter Notebook** 
 
 In the main funciton in the file, you will see a place where you can specify the beginning date and ending date:
+https://user-images.githubusercontent.com/47130002/101289757-0e6bde00-37c4-11eb-8e1c-966f7cb9a8d4.png
