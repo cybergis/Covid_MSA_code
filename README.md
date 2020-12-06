@@ -23,4 +23,5 @@ In the main funciton in the file, you will see a place where you can specify the
 
 
 Additionaly you can change the time interval, i.e., if time_interval is 1 you get the daily count, or if it is 7 you get a weekly count:
+![image](https://user-images.githubusercontent.com/47130002/101289875-b2ee2000-37c4-11eb-8bc0-eeb458a8eca7.png)
 
