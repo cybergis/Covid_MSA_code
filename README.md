@@ -16,4 +16,4 @@ The folder MSA_travel_aggregate contains a script "travel_aggregate.py" which ta
 This will be the script containing all the essential functionality for forecasting Covid-19 cases. This is work in progress but right now it has sample plots in which you can see how the number of Covid-19 cases correlate with the number of travelers to a metropolitan area. Currently working on a neural network model.
 
 ## User Guide for data preprocessing
-The main file that you need to run the code is in **COVID_aggregate_by_date**, to run it
+The main file that you need to run the code is in **COVID_aggregate_by_date.ipynb**, you can run it in **Jupyter Notebook** 
