@@ -1,0 +1,2153 @@
+date,county,state,fips,cases,deaths
+2020-02-14,Snohomish,Washington,53061,1,0.0
+2020-02-14,Los Angeles,California,6037,1,0.0
+2020-02-14,Cook,Illinois,17031,2,0.0
+2020-02-14,Orange,California,6059,1,0.0
+2020-02-14,Suffolk,Massachusetts,25025,1,0.0
+2020-02-14,Maricopa,Arizona,4013,1,0.0
+2020-02-14,San Diego,California,6073,1,0.0
+2020-02-14,San Francisco,California,6075,2,0.0
+2020-02-14,Dane,Wisconsin,55025,1,0.0
+2020-02-14,Santa Clara,California,6085,2,0.0
+2020-02-14,Bexar,Texas,48029,2,0.0
+2020-02-15,Snohomish,Washington,53061,0,0.0
+2020-02-15,Cook,Illinois,17031,0,0.0
+2020-02-15,San Francisco,California,6075,0,0.0
+2020-02-15,Santa Clara,California,6085,0,0.0
+2020-02-15,San Diego,California,6073,0,0.0
+2020-02-15,Suffolk,Massachusetts,25025,0,0.0
+2020-02-15,Dane,Wisconsin,55025,0,0.0
+2020-02-15,Maricopa,Arizona,4013,0,0.0
+2020-02-15,Orange,California,6059,0,0.0
+2020-02-15,Los Angeles,California,6037,0,0.0
+2020-02-15,Bexar,Texas,48029,0,0.0
+2020-02-16,San Diego,California,6073,0,0.0
+2020-02-16,San Francisco,California,6075,0,0.0
+2020-02-16,Los Angeles,California,6037,0,0.0
+2020-02-16,Cook,Illinois,17031,0,0.0
+2020-02-16,Maricopa,Arizona,4013,0,0.0
+2020-02-16,Suffolk,Massachusetts,25025,0,0.0
+2020-02-16,Orange,California,6059,0,0.0
+2020-02-16,Santa Clara,California,6085,0,0.0
+2020-02-16,Snohomish,Washington,53061,0,0.0
+2020-02-16,Bexar,Texas,48029,0,0.0
+2020-02-16,Dane,Wisconsin,55025,0,0.0
+2020-02-17,Orange,California,6059,0,0.0
+2020-02-17,Snohomish,Washington,53061,0,0.0
+2020-02-17,Los Angeles,California,6037,0,0.0
+2020-02-17,Bexar,Texas,48029,0,0.0
+2020-02-17,Dane,Wisconsin,55025,0,0.0
+2020-02-17,San Diego,California,6073,0,0.0
+2020-02-17,Maricopa,Arizona,4013,0,0.0
+2020-02-17,Santa Clara,California,6085,0,0.0
+2020-02-17,San Francisco,California,6075,0,0.0
+2020-02-17,Douglas,Nebraska,31055,10,0.0
+2020-02-17,Suffolk,Massachusetts,25025,0,0.0
+2020-02-17,Cook,Illinois,17031,0,0.0
+2020-02-18,Suffolk,Massachusetts,25025,0,0.0
+2020-02-18,Santa Clara,California,6085,0,0.0
+2020-02-18,Los Angeles,California,6037,0,0.0
+2020-02-18,Bexar,Texas,48029,0,0.0
+2020-02-18,San Francisco,California,6075,0,0.0
+2020-02-18,Orange,California,6059,0,0.0
+2020-02-18,Maricopa,Arizona,4013,0,0.0
+2020-02-18,Douglas,Nebraska,31055,0,0.0
+2020-02-18,Snohomish,Washington,53061,0,0.0
+2020-02-18,Cook,Illinois,17031,0,0.0
+2020-02-18,Dane,Wisconsin,55025,0,0.0
+2020-02-18,San Diego,California,6073,0,0.0
+2020-02-19,Santa Clara,California,6085,0,0.0
+2020-02-19,San Francisco,California,6075,0,0.0
+2020-02-19,Cook,Illinois,17031,0,0.0
+2020-02-19,Douglas,Nebraska,31055,0,0.0
+2020-02-19,Bexar,Texas,48029,0,0.0
+2020-02-19,Orange,California,6059,0,0.0
+2020-02-19,Snohomish,Washington,53061,0,0.0
+2020-02-19,Maricopa,Arizona,4013,0,0.0
+2020-02-19,Suffolk,Massachusetts,25025,0,0.0
+2020-02-19,San Diego,California,6073,0,0.0
+2020-02-19,Los Angeles,California,6037,0,0.0
+2020-02-19,Dane,Wisconsin,55025,0,0.0
+2020-02-20,Humboldt,California,6023,1,0.0
+2020-02-20,San Francisco,California,6075,0,0.0
+2020-02-20,San Diego,California,6073,0,0.0
+2020-02-20,Bexar,Texas,48029,0,0.0
+2020-02-20,Cook,Illinois,17031,0,0.0
+2020-02-20,Suffolk,Massachusetts,25025,0,0.0
+2020-02-20,Santa Clara,California,6085,0,0.0
+2020-02-20,Snohomish,Washington,53061,0,0.0
+2020-02-20,Douglas,Nebraska,31055,1,0.0
+2020-02-20,Los Angeles,California,6037,0,0.0
+2020-02-20,Maricopa,Arizona,4013,0,0.0
+2020-02-20,Orange,California,6059,0,0.0
+2020-02-20,Dane,Wisconsin,55025,0,0.0
+2020-02-21,Cook,Illinois,17031,0,0.0
+2020-02-21,Humboldt,California,6023,0,0.0
+2020-02-21,Douglas,Nebraska,31055,0,0.0
+2020-02-21,Santa Clara,California,6085,0,0.0
+2020-02-21,Suffolk,Massachusetts,25025,0,0.0
+2020-02-21,Bexar,Texas,48029,2,0.0
+2020-02-21,Sacramento,California,6067,1,0.0
+2020-02-21,Dane,Wisconsin,55025,0,0.0
+2020-02-21,Maricopa,Arizona,4013,0,0.0
+2020-02-21,Snohomish,Washington,53061,0,0.0
+2020-02-21,Orange,California,6059,0,0.0
+2020-02-21,Los Angeles,California,6037,0,0.0
+2020-02-21,San Diego,California,6073,0,0.0
+2020-02-21,San Francisco,California,6075,0,0.0
+2020-02-22,Bexar,Texas,48029,0,0.0
+2020-02-22,Suffolk,Massachusetts,25025,0,0.0
+2020-02-22,Dane,Wisconsin,55025,0,0.0
+2020-02-22,Humboldt,California,6023,0,0.0
+2020-02-22,Orange,California,6059,0,0.0
+2020-02-22,San Diego,California,6073,0,0.0
+2020-02-22,Douglas,Nebraska,31055,0,0.0
+2020-02-22,Maricopa,Arizona,4013,0,0.0
+2020-02-22,Sacramento,California,6067,0,0.0
+2020-02-22,Los Angeles,California,6037,0,0.0
+2020-02-22,Santa Clara,California,6085,0,0.0
+2020-02-22,Cook,Illinois,17031,0,0.0
+2020-02-22,San Francisco,California,6075,0,0.0
+2020-02-22,Snohomish,Washington,53061,0,0.0
+2020-02-23,Sacramento,California,6067,0,0.0
+2020-02-23,Snohomish,Washington,53061,0,0.0
+2020-02-23,Bexar,Texas,48029,0,0.0
+2020-02-23,Maricopa,Arizona,4013,0,0.0
+2020-02-23,Dane,Wisconsin,55025,0,0.0
+2020-02-23,Cook,Illinois,17031,0,0.0
+2020-02-23,Humboldt,California,6023,0,0.0
+2020-02-23,Douglas,Nebraska,31055,0,0.0
+2020-02-23,Orange,California,6059,0,0.0
+2020-02-23,Los Angeles,California,6037,0,0.0
+2020-02-23,Santa Clara,California,6085,0,0.0
+2020-02-23,Suffolk,Massachusetts,25025,0,0.0
+2020-02-23,San Francisco,California,6075,0,0.0
+2020-02-23,San Diego,California,6073,0,0.0
+2020-02-24,Dane,Wisconsin,55025,0,0.0
+2020-02-24,Los Angeles,California,6037,0,0.0
+2020-02-24,Maricopa,Arizona,4013,0,0.0
+2020-02-24,Humboldt,California,6023,0,0.0
+2020-02-24,Douglas,Nebraska,31055,1,0.0
+2020-02-24,Santa Clara,California,6085,0,0.0
+2020-02-24,Solano,California,6095,1,0.0
+2020-02-24,Cook,Illinois,17031,0,0.0
+2020-02-24,Snohomish,Washington,53061,0,0.0
+2020-02-24,Orange,California,6059,0,0.0
+2020-02-24,Spokane,Washington,53063,4,0.0
+2020-02-24,San Francisco,California,6075,1,0.0
+2020-02-24,Sacramento,California,6067,0,0.0
+2020-02-24,Bexar,Texas,48029,6,0.0
+2020-02-24,Suffolk,Massachusetts,25025,0,0.0
+2020-02-24,San Diego,California,6073,0,0.0
+2020-02-25,Snohomish,Washington,53061,0,0.0
+2020-02-25,Humboldt,California,6023,0,0.0
+2020-02-25,Solano,California,6095,0,0.0
+2020-02-25,Dane,Wisconsin,55025,0,0.0
+2020-02-25,Los Angeles,California,6037,0,0.0
+2020-02-25,Santa Clara,California,6085,0,0.0
+2020-02-25,Bexar,Texas,48029,0,0.0
+2020-02-25,Cook,Illinois,17031,0,0.0
+2020-02-25,San Diego,California,6073,0,0.0
+2020-02-25,Salt Lake,Utah,49035,1,0.0
+2020-02-25,Douglas,Nebraska,31055,1,0.0
+2020-02-25,Sacramento,California,6067,0,0.0
+2020-02-25,Suffolk,Massachusetts,25025,0,0.0
+2020-02-25,Orange,California,6059,0,0.0
+2020-02-25,Maricopa,Arizona,4013,0,0.0
+2020-02-25,Spokane,Washington,53063,0,0.0
+2020-02-25,San Francisco,California,6075,0,0.0
+2020-02-26,Snohomish,Washington,53061,0,0.0
+2020-02-26,Suffolk,Massachusetts,25025,0,0.0
+2020-02-26,Los Angeles,California,6037,0,0.0
+2020-02-26,Napa,California,6055,1,0.0
+2020-02-26,San Francisco,California,6075,0,0.0
+2020-02-26,Cook,Illinois,17031,0,0.0
+2020-02-26,Douglas,Nebraska,31055,0,0.0
+2020-02-26,San Diego,California,6073,0,0.0
+2020-02-26,Humboldt,California,6023,0,0.0
+2020-02-26,Sacramento,California,6067,2,0.0
+2020-02-26,Santa Clara,California,6085,0,0.0
+2020-02-26,Solano,California,6095,10,0.0
+2020-02-26,Bexar,Texas,48029,0,0.0
+2020-02-26,Dane,Wisconsin,55025,0,0.0
+2020-02-26,Maricopa,Arizona,4013,0,0.0
+2020-02-26,Spokane,Washington,53063,0,0.0
+2020-02-26,Orange,California,6059,0,0.0
+2020-02-26,Marin,California,6041,1,0.0
+2020-02-26,Sonoma,California,6097,1,0.0
+2020-02-26,Salt Lake,Utah,49035,0,0.0
+2020-02-27,Douglas,Nebraska,31055,0,0.0
+2020-02-27,Napa,California,6055,0,0.0
+2020-02-27,Santa Clara,California,6085,0,0.0
+2020-02-27,Bexar,Texas,48029,0,0.0
+2020-02-27,Cook,Illinois,17031,0,0.0
+2020-02-27,Marin,California,6041,0,0.0
+2020-02-27,Suffolk,Massachusetts,25025,0,0.0
+2020-02-27,Sacramento,California,6067,0,0.0
+2020-02-27,San Diego,California,6073,0,0.0
+2020-02-27,Humboldt,California,6023,0,0.0
+2020-02-27,Los Angeles,California,6037,0,0.0
+2020-02-27,Salt Lake,Utah,49035,0,0.0
+2020-02-27,Snohomish,Washington,53061,0,0.0
+2020-02-27,Orange,California,6059,0,0.0
+2020-02-27,San Francisco,California,6075,0,0.0
+2020-02-27,Maricopa,Arizona,4013,0,0.0
+2020-02-27,Sonoma,California,6097,0,0.0
+2020-02-27,Dane,Wisconsin,55025,0,0.0
+2020-02-27,Spokane,Washington,53063,0,0.0
+2020-02-27,Solano,California,6095,0,0.0
+2020-02-28,Sacramento,California,6067,0,0.0
+2020-02-28,Sonoma,California,6097,0,0.0
+2020-02-28,Napa,California,6055,0,0.0
+2020-02-28,Orange,California,6059,0,0.0
+2020-02-28,Snohomish,Washington,53061,1,0.0
+2020-02-28,Bexar,Texas,48029,1,0.0
+2020-02-28,Suffolk,Massachusetts,25025,0,0.0
+2020-02-28,Cook,Illinois,17031,0,0.0
+2020-02-28,Humboldt,California,6023,0,0.0
+2020-02-28,Salt Lake,Utah,49035,0,0.0
+2020-02-28,Los Angeles,California,6037,0,0.0
+2020-02-28,King,Washington,53033,1,0.0
+2020-02-28,Solano,California,6095,0,0.0
+2020-02-28,Washington,Oregon,41067,1,0.0
+2020-02-28,Spokane,Washington,53063,0,0.0
+2020-02-28,San Francisco,California,6075,0,0.0
+2020-02-28,Marin,California,6041,0,0.0
+2020-02-28,San Diego,California,6073,0,0.0
+2020-02-28,Santa Clara,California,6085,1,0.0
+2020-02-28,Maricopa,Arizona,4013,0,0.0
+2020-02-28,Douglas,Nebraska,31055,0,0.0
+2020-02-28,Dane,Wisconsin,55025,0,0.0
+2020-02-29,Suffolk,Massachusetts,25025,0,0.0
+2020-02-29,Marin,California,6041,0,0.0
+2020-02-29,San Diego,California,6073,0,0.0
+2020-02-29,Washington,Oregon,41067,0,0.0
+2020-02-29,Los Angeles,California,6037,0,0.0
+2020-02-29,Orange,California,6059,0,0.0
+2020-02-29,Cook,Illinois,17031,1,0.0
+2020-02-29,Maricopa,Arizona,4013,0,0.0
+2020-02-29,Humboldt,California,6023,0,0.0
+2020-02-29,Salt Lake,Utah,49035,0,0.0
+2020-02-29,Snohomish,Washington,53061,0,0.0
+2020-02-29,Solano,California,6095,0,0.0
+2020-02-29,King,Washington,53033,3,1.0
+2020-02-29,Bexar,Texas,48029,0,0.0
+2020-02-29,Sonoma,California,6097,0,0.0
+2020-02-29,San Francisco,California,6075,0,0.0
+2020-02-29,Douglas,Nebraska,31055,0,0.0
+2020-02-29,Santa Clara,California,6085,1,0.0
+2020-02-29,Sacramento,California,6067,0,0.0
+2020-02-29,Napa,California,6055,0,0.0
+2020-02-29,Spokane,Washington,53063,0,0.0
+2020-02-29,Dane,Wisconsin,55025,0,0.0
+2020-03-01,Dane,Wisconsin,55025,0,0.0
+2020-03-01,Humboldt,California,6023,0,0.0
+2020-03-01,Sonoma,California,6097,0,0.0
+2020-03-01,Suffolk,Massachusetts,25025,0,0.0
+2020-03-01,Unknown,Rhode Island,-1,2,0.0
+2020-03-01,Snohomish,Washington,53061,0,0.0
+2020-03-01,Manatee,Florida,12081,1,0.0
+2020-03-01,Orange,California,6059,0,0.0
+2020-03-01,Solano,California,6095,1,0.0
+2020-03-01,King,Washington,53033,7,2.0
+2020-03-01,Alameda,California,6001,1,0.0
+2020-03-01,San Diego,California,6073,0,0.0
+2020-03-01,Cook,Illinois,17031,0,0.0
+2020-03-01,Sacramento,California,6067,0,0.0
+2020-03-01,Salt Lake,Utah,49035,0,0.0
+2020-03-01,Los Angeles,California,6037,0,0.0
+2020-03-01,Spokane,Washington,53063,0,0.0
+2020-03-01,Santa Clara,California,6085,3,0.0
+2020-03-01,Marin,California,6041,0,0.0
+2020-03-01,Maricopa,Arizona,4013,0,0.0
+2020-03-01,Douglas,Nebraska,31055,0,0.0
+2020-03-01,Washington,Oregon,41067,1,0.0
+2020-03-01,San Francisco,California,6075,0,0.0
+2020-03-01,Napa,California,6055,0,0.0
+2020-03-01,Bexar,Texas,48029,0,0.0
+2020-03-01,New York City,New York,-1,1,0.0
+2020-03-01,Hillsborough,Florida,12057,1,0.0
+2020-03-02,Spokane,Washington,53063,0,0.0
+2020-03-02,Norfolk,Massachusetts,25021,1,0.0
+2020-03-02,Maricopa,Arizona,4013,0,0.0
+2020-03-02,Grafton,New Hampshire,33009,1,0.0
+2020-03-02,Salt Lake,Utah,49035,0,0.0
+2020-03-02,Marin,California,6041,0,0.0
+2020-03-02,San Diego,California,6073,0,0.0
+2020-03-02,Washington,Oregon,41067,0,0.0
+2020-03-02,San Francisco,California,6075,0,0.0
+2020-03-02,Fulton,Georgia,13121,2,0.0
+2020-03-02,Suffolk,Massachusetts,25025,0,0.0
+2020-03-02,King,Washington,53033,4,3.0
+2020-03-02,New York City,New York,-1,0,0.0
+2020-03-02,Alameda,California,6001,0,0.0
+2020-03-02,Snohomish,Washington,53061,1,0.0
+2020-03-02,Douglas,Nebraska,31055,0,0.0
+2020-03-02,Napa,California,6055,0,0.0
+2020-03-02,Sacramento,California,6067,0,0.0
+2020-03-02,Cook,Illinois,17031,1,0.0
+2020-03-02,Solano,California,6095,0,0.0
+2020-03-02,Los Angeles,California,6037,0,0.0
+2020-03-02,Santa Clara,California,6085,2,0.0
+2020-03-02,Humboldt,California,6023,0,0.0
+2020-03-02,Walla Walla,Washington,53071,1,0.0
+2020-03-02,Placer,California,6061,1,0.0
+2020-03-02,San Mateo,California,6081,1,0.0
+2020-03-02,Manatee,Florida,12081,0,0.0
+2020-03-02,Unknown,Rhode Island,-1,0,0.0
+2020-03-02,Sonoma,California,6097,1,0.0
+2020-03-02,Dane,Wisconsin,55025,0,0.0
+2020-03-02,Orange,California,6059,0,0.0
+2020-03-02,Hillsborough,Florida,12057,0,0.0
+2020-03-02,Bexar,Texas,48029,0,0.0
+2020-03-03,Bexar,Texas,48029,0,0.0
+2020-03-03,Humboldt,California,6023,0,0.0
+2020-03-03,Suffolk,Massachusetts,25025,0,0.0
+2020-03-03,King,Washington,53033,7,4.0
+2020-03-03,New York City,New York,-1,1,0.0
+2020-03-03,Contra Costa,California,6013,1,0.0
+2020-03-03,Orange,California,6059,2,0.0
+2020-03-03,Douglas,Nebraska,31055,0,0.0
+2020-03-03,Placer,California,6061,1,0.0
+2020-03-03,Snohomish,Washington,53061,2,0.0
+2020-03-03,Santa Clara,California,6085,2,0.0
+2020-03-03,Sonoma,California,6097,0,0.0
+2020-03-03,Maricopa,Arizona,4013,1,0.0
+2020-03-03,Sacramento,California,6067,0,0.0
+2020-03-03,Cook,Illinois,17031,0,0.0
+2020-03-03,Napa,California,6055,0,0.0
+2020-03-03,Unknown,Rhode Island,-1,0,0.0
+2020-03-03,Alameda,California,6001,1,0.0
+2020-03-03,Hillsborough,Florida,12057,1,0.0
+2020-03-03,Norfolk,Massachusetts,25021,0,0.0
+2020-03-03,Grafton,New Hampshire,33009,1,0.0
+2020-03-03,San Francisco,California,6075,0,0.0
+2020-03-03,Marin,California,6041,0,0.0
+2020-03-03,Fulton,Georgia,13121,0,0.0
+2020-03-03,San Diego,California,6073,0,0.0
+2020-03-03,San Mateo,California,6081,0,0.0
+2020-03-03,Dane,Wisconsin,55025,0,0.0
+2020-03-03,Manatee,Florida,12081,0,0.0
+2020-03-03,Salt Lake,Utah,49035,0,0.0
+2020-03-03,Walla Walla,Washington,53071,0,0.0
+2020-03-03,Los Angeles,California,6037,0,0.0
+2020-03-03,Solano,California,6095,0,0.0
+2020-03-03,Washington,Oregon,41067,0,0.0
+2020-03-03,Spokane,Washington,53063,0,0.0
+2020-03-03,Wake,North Carolina,37183,1,0.0
+2020-03-04,Grafton,New Hampshire,33009,0,0.0
+2020-03-04,Orange,California,6059,0,0.0
+2020-03-04,Humboldt,California,6023,0,0.0
+2020-03-04,Cook,Illinois,17031,0,0.0
+2020-03-04,Sonoma,California,6097,1,0.0
+2020-03-04,San Francisco,California,6075,0,0.0
+2020-03-04,Dane,Wisconsin,55025,0,0.0
+2020-03-04,Snohomish,Washington,53061,3,0.0
+2020-03-04,San Mateo,California,6081,0,0.0
+2020-03-04,Fort Bend,Texas,48157,1,0.0
+2020-03-04,New York City,New York,-1,0,0.0
+2020-03-04,King,Washington,53033,11,1.0
+2020-03-04,Solano,California,6095,0,0.0
+2020-03-04,Bexar,Texas,48029,0,0.0
+2020-03-04,Douglas,Nebraska,31055,0,0.0
+2020-03-04,Unknown,Rhode Island,-1,0,0.0
+2020-03-04,Salt Lake,Utah,49035,0,0.0
+2020-03-04,Norfolk,Massachusetts,25021,0,0.0
+2020-03-04,Alameda,California,6001,0,0.0
+2020-03-04,Los Angeles,California,6037,6,0.0
+2020-03-04,Contra Costa,California,6013,0,0.0
+2020-03-04,Walla Walla,Washington,53071,0,0.0
+2020-03-04,Suffolk,Massachusetts,25025,0,0.0
+2020-03-04,Washington,Oregon,41067,0,0.0
+2020-03-04,Westchester,New York,36119,9,0.0
+2020-03-04,Bergen,New Jersey,34003,1,0.0
+2020-03-04,Hillsborough,Florida,12057,0,0.0
+2020-03-04,Wake,North Carolina,37183,0,0.0
+2020-03-04,Spokane,Washington,53063,0,0.0
+2020-03-04,Placer,California,6061,0,1.0
+2020-03-04,Manatee,Florida,12081,0,0.0
+2020-03-04,Maricopa,Arizona,4013,0,0.0
+2020-03-04,Chelan,Washington,53007,1,0.0
+2020-03-04,Santa Clara,California,6085,3,0.0
+2020-03-04,Sacramento,California,6067,0,0.0
+2020-03-04,San Diego,California,6073,0,0.0
+2020-03-04,Fulton,Georgia,13121,0,0.0
+2020-03-04,Napa,California,6055,0,0.0
+2020-03-04,Marin,California,6041,0,0.0
+2020-03-05,Salt Lake,Utah,49035,0,0.0
+2020-03-05,Marin,California,6041,0,0.0
+2020-03-05,Douglas,Colorado,8035,1,0.0
+2020-03-05,Orange,California,6059,0,0.0
+2020-03-05,Los Angeles,California,6037,4,0.0
+2020-03-05,San Mateo,California,6081,0,0.0
+2020-03-05,Nassau,New York,36059,1,0.0
+2020-03-05,Manatee,Florida,12081,0,0.0
+2020-03-05,Clark,Nevada,32003,1,0.0
+2020-03-05,Williamson,Tennessee,47187,1,0.0
+2020-03-05,Walla Walla,Washington,53071,0,0.0
+2020-03-05,Unknown,Rhode Island,-1,0,0.0
+2020-03-05,Hillsborough,Florida,12057,0,0.0
+2020-03-05,Fulton,Georgia,13121,0,0.0
+2020-03-05,Placer,California,6061,0,0.0
+2020-03-05,Maricopa,Arizona,4013,0,0.0
+2020-03-05,Sonoma,California,6097,0,0.0
+2020-03-05,Humboldt,California,6023,0,0.0
+2020-03-05,Bexar,Texas,48029,0,0.0
+2020-03-05,Grafton,New Hampshire,33009,0,0.0
+2020-03-05,Chelan,Washington,53007,0,0.0
+2020-03-05,Dane,Wisconsin,55025,0,0.0
+2020-03-05,San Francisco,California,6075,2,0.0
+2020-03-05,Spokane,Washington,53063,0,0.0
+2020-03-05,Norfolk,Massachusetts,25021,0,0.0
+2020-03-05,Alameda,California,6001,0,0.0
+2020-03-05,Cook,Illinois,17031,1,0.0
+2020-03-05,Washoe,Nevada,32031,1,0.0
+2020-03-05,Santa Clara,California,6085,6,0.0
+2020-03-05,Montgomery,Maryland,24031,3,0.0
+2020-03-05,Snohomish,Washington,53061,9,0.0
+2020-03-05,Jefferson,Colorado,8059,1,0.0
+2020-03-05,Santa Rosa,Florida,12113,1,0.0
+2020-03-05,Bergen,New Jersey,34003,1,0.0
+2020-03-05,Westchester,New York,36119,8,0.0
+2020-03-05,Sacramento,California,6067,0,0.0
+2020-03-05,Napa,California,6055,0,0.0
+2020-03-05,King,Washington,53033,19,0.0
+2020-03-05,Contra Costa,California,6013,0,0.0
+2020-03-05,Fort Bend,Texas,48157,0,0.0
+2020-03-05,Middlesex,Massachusetts,25017,1,0.0
+2020-03-05,New York City,New York,-1,2,0.0
+2020-03-05,San Diego,California,6073,0,0.0
+2020-03-05,Suffolk,Massachusetts,25025,0,0.0
+2020-03-05,Douglas,Nebraska,31055,0,0.0
+2020-03-05,Solano,California,6095,0,0.0
+2020-03-05,Wake,North Carolina,37183,0,0.0
+2020-03-05,Harris,Texas,48201,4,0.0
+2020-03-05,Washington,Oregon,41067,0,0.0
+2020-03-06,Hillsborough,Florida,12057,0,0.0
+2020-03-06,Suffolk,Massachusetts,25025,3,0.0
+2020-03-06,Douglas,Colorado,8035,2,0.0
+2020-03-06,Humboldt,California,6023,0,0.0
+2020-03-06,Harris,Texas,48201,1,0.0
+2020-03-06,Denver,Colorado,8031,2,0.0
+2020-03-06,Fulton,Georgia,13121,0,0.0
+2020-03-06,Delaware,Pennsylvania,42045,1,0.0
+2020-03-06,Tulsa,Oklahoma,40143,1,0.0
+2020-03-06,Eagle,Colorado,8037,1,0.0
+2020-03-06,Honolulu,Hawaii,15003,1,0.0
+2020-03-06,Fort Bend,Texas,48157,2,0.0
+2020-03-06,Salt Lake,Utah,49035,0,0.0
+2020-03-06,Spokane,Washington,53063,0,0.0
+2020-03-06,Grafton,New Hampshire,33009,0,0.0
+2020-03-06,El Paso,Colorado,8041,1,0.0
+2020-03-06,Douglas,Nebraska,31055,1,0.0
+2020-03-06,Walla Walla,Washington,53071,0,0.0
+2020-03-06,Jefferson,Colorado,8059,0,0.0
+2020-03-06,Norfolk,Massachusetts,25021,2,0.0
+2020-03-06,New York City,New York,-1,1,0.0
+2020-03-06,Washoe,Nevada,32031,0,0.0
+2020-03-06,Camden,New Jersey,34007,1,0.0
+2020-03-06,Nassau,New York,36059,3,0.0
+2020-03-06,Napa,California,6055,0,0.0
+2020-03-06,Broward,Florida,12011,2,0.0
+2020-03-06,Washington,Utah,49053,1,0.0
+2020-03-06,Washington,Oregon,41067,0,0.0
+2020-03-06,Charleston,South Carolina,45019,1,0.0
+2020-03-06,Santa Rosa,Florida,12113,0,1.0
+2020-03-06,Middlesex,Massachusetts,25017,0,0.0
+2020-03-06,Marion,Indiana,18097,1,0.0
+2020-03-06,Marin,California,6041,0,0.0
+2020-03-06,Santa Clara,California,6085,4,0.0
+2020-03-06,San Mateo,California,6081,0,0.0
+2020-03-06,Wayne,Pennsylvania,42127,1,0.0
+2020-03-06,Bexar,Texas,48029,0,0.0
+2020-03-06,Sacramento,California,6067,0,0.0
+2020-03-06,Yolo,California,6113,1,0.0
+2020-03-06,Alameda,California,6001,1,0.0
+2020-03-06,Rockland,New York,36087,2,0.0
+2020-03-06,Ramsey,Minnesota,27123,1,0.0
+2020-03-06,Williamson,Tennessee,47187,0,0.0
+2020-03-06,San Diego,California,6073,0,0.0
+2020-03-06,Polk,Georgia,13233,1,0.0
+2020-03-06,Placer,California,6061,3,0.0
+2020-03-06,Westchester,New York,36119,16,0.0
+2020-03-06,Pinal,Arizona,4021,1,0.0
+2020-03-06,Bergen,New Jersey,34003,1,0.0
+2020-03-06,Pierce,Washington,53053,1,0.0
+2020-03-06,San Francisco,California,6075,0,0.0
+2020-03-06,Orange,California,6059,0,0.0
+2020-03-06,Chatham,North Carolina,37037,1,0.0
+2020-03-06,Maricopa,Arizona,4013,0,0.0
+2020-03-06,Montgomery,Maryland,24031,0,0.0
+2020-03-06,Sonoma,California,6097,0,0.0
+2020-03-06,Clark,Washington,53011,1,0.0
+2020-03-06,King,Washington,53033,7,1.0
+2020-03-06,Cook,Illinois,17031,1,0.0
+2020-03-06,Jefferson,Washington,53031,1,0.0
+2020-03-06,Davis,Utah,49011,1,0.0
+2020-03-06,Los Angeles,California,6037,2,0.0
+2020-03-06,Lee,Florida,12071,1,1.0
+2020-03-06,Snohomish,Washington,53061,1,0.0
+2020-03-06,Wake,North Carolina,37183,0,0.0
+2020-03-06,Contra Costa,California,6013,3,0.0
+2020-03-06,Dane,Wisconsin,55025,0,0.0
+2020-03-06,Unknown,Rhode Island,-1,1,0.0
+2020-03-06,Clark,Nevada,32003,0,0.0
+2020-03-06,Chelan,Washington,53007,0,0.0
+2020-03-06,Fayette,Kentucky,21067,1,0.0
+2020-03-06,Kershaw,South Carolina,45055,1,0.0
+2020-03-06,Manatee,Florida,12081,0,0.0
+2020-03-06,Solano,California,6095,0,0.0
+2020-03-07,Pinal,Arizona,4021,2,0.0
+2020-03-07,Solano,California,6095,0,0.0
+2020-03-07,Fulton,Georgia,13121,2,0.0
+2020-03-07,Pierce,Washington,53053,2,0.0
+2020-03-07,Kershaw,South Carolina,45055,0,0.0
+2020-03-07,Placer,California,6061,0,0.0
+2020-03-07,Manatee,Florida,12081,1,0.0
+2020-03-07,San Diego,California,6073,0,0.0
+2020-03-07,Polk,Georgia,13233,0,0.0
+2020-03-07,Jefferson,Washington,53031,0,0.0
+2020-03-07,Ramsey,Minnesota,27123,0,0.0
+2020-03-07,Riverside,California,6065,1,0.0
+2020-03-07,Fresno,California,6019,1,0.0
+2020-03-07,Rockingham,New Hampshire,33015,1,0.0
+2020-03-07,Rockland,New York,36087,0,0.0
+2020-03-07,Sonoma,California,6097,0,0.0
+2020-03-07,Suffolk,Massachusetts,25025,0,0.0
+2020-03-07,Fort Bend,Texas,48157,0,0.0
+2020-03-07,Humboldt,California,6023,0,0.0
+2020-03-07,Jefferson,Colorado,8059,0,0.0
+2020-03-07,Sacramento,California,6067,0,0.0
+2020-03-07,Fayette,Kentucky,21067,0,0.0
+2020-03-07,Johnson,Kansas,20091,1,0.0
+2020-03-07,San Francisco,California,6075,6,0.0
+2020-03-07,Klamath,Oregon,41035,1,0.0
+2020-03-07,King,Washington,53033,13,4.0
+2020-03-07,Spokane,Washington,53063,0,0.0
+2020-03-07,St. Louis,Missouri,29189,1,0.0
+2020-03-07,Marin,California,6041,0,0.0
+2020-03-07,Harris,Texas,48201,0,0.0
+2020-03-07,Marion,Indiana,18097,0,0.0
+2020-03-07,Gwinnett,Georgia,13135,1,0.0
+2020-03-07,Saratoga,New York,36091,2,0.0
+2020-03-07,Hillsborough,Florida,12057,0,0.0
+2020-03-07,Middlesex,Massachusetts,25017,4,0.0
+2020-03-07,Santa Rosa,Florida,12113,0,0.0
+2020-03-07,Madera,California,6039,1,0.0
+2020-03-07,Los Angeles,California,6037,1,0.0
+2020-03-07,Santa Cruz,California,6087,1,0.0
+2020-03-07,Orange,California,6059,0,0.0
+2020-03-07,Jackson,Oregon,41029,2,0.0
+2020-03-07,Montgomery,Pennsylvania,42091,2,0.0
+2020-03-07,Santa Clara,California,6085,8,0.0
+2020-03-07,Honolulu,Hawaii,15003,0,0.0
+2020-03-07,Napa,California,6055,0,0.0
+2020-03-07,Nassau,New York,36059,0,0.0
+2020-03-07,Lee,Florida,12071,1,0.0
+2020-03-07,New York City,New York,-1,7,0.0
+2020-03-07,Norfolk,Massachusetts,25021,0,0.0
+2020-03-07,Okaloosa,Florida,12091,1,0.0
+2020-03-07,San Mateo,California,6081,0,0.0
+2020-03-07,Snohomish,Washington,53061,8,0.0
+2020-03-07,Grafton,New Hampshire,33009,1,0.0
+2020-03-07,Kittitas,Washington,53037,1,0.0
+2020-03-07,Montgomery,Maryland,24031,0,0.0
+2020-03-07,Fairfax,Virginia,51059,1,0.0
+2020-03-07,Maricopa,Arizona,4013,0,0.0
+2020-03-07,Salt Lake,Utah,49035,0,0.0
+2020-03-07,Cook,Illinois,17031,0,0.0
+2020-03-07,Westchester,New York,36119,36,0.0
+2020-03-07,Bennington,Vermont,50003,1,0.0
+2020-03-07,Contra Costa,California,6013,0,0.0
+2020-03-07,Bergen,New Jersey,34003,0,0.0
+2020-03-07,Cobb,Georgia,13067,1,0.0
+2020-03-07,Wake,North Carolina,37183,0,0.0
+2020-03-07,Berkshire,Massachusetts,25003,1,0.0
+2020-03-07,Clark,Nevada,32003,0,0.0
+2020-03-07,Walla Walla,Washington,53071,0,0.0
+2020-03-07,Bexar,Texas,48029,0,0.0
+2020-03-07,Douglas,Colorado,8035,0,0.0
+2020-03-07,Chelan,Washington,53007,0,0.0
+2020-03-07,El Paso,Colorado,8041,0,0.0
+2020-03-07,Wayne,Pennsylvania,42127,0,0.0
+2020-03-07,Broward,Florida,12011,0,0.0
+2020-03-07,Chatham,North Carolina,37037,0,0.0
+2020-03-07,Eagle,Colorado,8037,0,0.0
+2020-03-07,Tulsa,Oklahoma,40143,0,0.0
+2020-03-07,Charlotte,Florida,12015,1,0.0
+2020-03-07,Charleston,South Carolina,45019,0,0.0
+2020-03-07,Washoe,Nevada,32031,0,0.0
+2020-03-07,Camden,New Jersey,34007,0,0.0
+2020-03-07,Washington,Oregon,41067,1,0.0
+2020-03-07,Douglas,Nebraska,31055,0,0.0
+2020-03-07,District of Columbia,District of Columbia,11001,1,0.0
+2020-03-07,Volusia,Florida,12127,1,0.0
+2020-03-07,Clark,Washington,53011,0,0.0
+2020-03-07,Washington,Utah,49053,0,0.0
+2020-03-07,Delaware,Pennsylvania,42045,0,0.0
+2020-03-07,Dane,Wisconsin,55025,0,0.0
+2020-03-07,Williamson,Tennessee,47187,0,0.0
+2020-03-07,Unknown,Rhode Island,-1,0,0.0
+2020-03-07,Alameda,California,6001,0,0.0
+2020-03-07,Denver,Colorado,8031,0,0.0
+2020-03-07,Davis,Utah,49011,0,0.0
+2020-03-07,Yolo,California,6113,0,0.0
+2020-03-08,Saratoga,New York,36091,0,0.0
+2020-03-08,Marion,Oregon,41047,1,0.0
+2020-03-08,Marion,Indiana,18097,0,0.0
+2020-03-08,Harford,Maryland,24025,1,0.0
+2020-03-08,Marin,California,6041,0,0.0
+2020-03-08,Chatham,North Carolina,37037,0,0.0
+2020-03-08,Shelby,Tennessee,47157,1,0.0
+2020-03-08,Maricopa,Arizona,4013,0,0.0
+2020-03-08,Davidson,Tennessee,47037,1,0.0
+2020-03-08,Charlotte,Florida,12015,0,0.0
+2020-03-08,Gwinnett,Georgia,13135,0,0.0
+2020-03-08,Middlesex,Massachusetts,25017,5,0.0
+2020-03-08,Delaware,Pennsylvania,42045,0,0.0
+2020-03-08,Santa Clara,California,6085,5,0.0
+2020-03-08,Montgomery,Pennsylvania,42091,2,0.0
+2020-03-08,Washington,Oregon,41067,5,0.0
+2020-03-08,Douglas,Nebraska,31055,2,0.0
+2020-03-08,Spartanburg,South Carolina,45083,1,0.0
+2020-03-08,Ulster,New York,36111,1,0.0
+2020-03-08,Davis,Utah,49011,0,0.0
+2020-03-08,Montgomery,Maryland,24031,1,0.0
+2020-03-08,Jefferson,Colorado,8059,0,0.0
+2020-03-08,Humboldt,California,6023,0,0.0
+2020-03-08,Santa Cruz,California,6087,0,0.0
+2020-03-08,Jefferson,Kentucky,21111,1,0.0
+2020-03-08,Charleston,South Carolina,45019,0,0.0
+2020-03-08,Santa Rosa,Florida,12113,0,0.0
+2020-03-08,Sonoma,California,6097,0,0.0
+2020-03-08,Jefferson,Washington,53031,0,0.0
+2020-03-08,Klamath,Oregon,41035,0,0.0
+2020-03-08,Johnson,Iowa,19103,3,0.0
+2020-03-08,Cobb,Georgia,13067,2,0.0
+2020-03-08,Unknown,Rhode Island,-1,0,0.0
+2020-03-08,Contra Costa,California,6013,5,0.0
+2020-03-08,Kershaw,South Carolina,45055,3,0.0
+2020-03-08,King,Washington,53033,19,2.0
+2020-03-08,Spokane,Washington,53063,0,0.0
+2020-03-08,Dane,Wisconsin,55025,0,0.0
+2020-03-08,Volusia,Florida,12127,0,0.0
+2020-03-08,Kitsap,Washington,53035,1,0.0
+2020-03-08,Cook,Illinois,17031,1,0.0
+2020-03-08,District of Columbia,District of Columbia,11001,0,0.0
+2020-03-08,Honolulu,Hawaii,15003,1,0.0
+2020-03-08,Hillsborough,Florida,12057,0,0.0
+2020-03-08,Snohomish,Washington,53061,10,0.0
+2020-03-08,Lee,Florida,12071,0,0.0
+2020-03-08,Douglas,Colorado,8035,0,0.0
+2020-03-08,Wake,North Carolina,37183,0,0.0
+2020-03-08,Clark,Washington,53011,0,0.0
+2020-03-08,Kittitas,Washington,53037,0,0.0
+2020-03-08,Chelan,Washington,53007,0,1.0
+2020-03-08,Cherokee,Georgia,13057,1,0.0
+2020-03-08,Johnson,Kansas,20091,0,0.0
+2020-03-08,St. Louis,Missouri,29189,0,0.0
+2020-03-08,Walla Walla,Washington,53071,0,0.0
+2020-03-08,Hendricks,Indiana,18063,1,0.0
+2020-03-08,Harrison,Kentucky,21097,1,0.0
+2020-03-08,Denver,Colorado,8031,0,0.0
+2020-03-08,Clark,Nevada,32003,1,0.0
+2020-03-08,Madera,California,6039,0,0.0
+2020-03-08,Los Angeles,California,6037,0,0.0
+2020-03-08,Solano,California,6095,0,0.0
+2020-03-08,Grafton,New Hampshire,33009,0,0.0
+2020-03-08,Manatee,Florida,12081,0,0.0
+2020-03-08,Harris,Texas,48201,1,0.0
+2020-03-08,Jackson,Oregon,41029,0,0.0
+2020-03-08,Washington,Utah,49053,0,0.0
+2020-03-08,Fairfield,Connecticut,9001,1,0.0
+2020-03-08,Broward,Florida,12011,1,0.0
+2020-03-08,Okaloosa,Florida,12091,0,0.0
+2020-03-08,Riverside,California,6065,0,0.0
+2020-03-08,Placer,California,6061,2,0.0
+2020-03-08,Worcester,Massachusetts,25027,1,0.0
+2020-03-08,Fresno,California,6019,0,0.0
+2020-03-08,El Paso,Colorado,8041,0,0.0
+2020-03-08,Wayne,Pennsylvania,42127,0,0.0
+2020-03-08,Suffolk,Massachusetts,25025,5,0.0
+2020-03-08,Ramsey,Minnesota,27123,0,0.0
+2020-03-08,Bexar,Texas,48029,0,0.0
+2020-03-08,Orange,California,6059,0,0.0
+2020-03-08,Fort Bend,Texas,48157,3,0.0
+2020-03-08,San Francisco,California,6075,0,0.0
+2020-03-08,Passaic,New Jersey,34031,1,0.0
+2020-03-08,Williamson,Tennessee,47187,0,0.0
+2020-03-08,Berkshire,Massachusetts,25003,0,0.0
+2020-03-08,Pierce,Washington,53053,1,0.0
+2020-03-08,San Diego,California,6073,0,0.0
+2020-03-08,Carver,Minnesota,27019,1,0.0
+2020-03-08,Suffolk,New York,36103,1,0.0
+2020-03-08,Bergen,New Jersey,34003,1,0.0
+2020-03-08,Fayette,Kentucky,21067,1,0.0
+2020-03-08,Bennington,Vermont,50003,0,0.0
+2020-03-08,Polk,Georgia,13233,0,0.0
+2020-03-08,Pinal,Arizona,4021,0,0.0
+2020-03-08,Rockingham,New Hampshire,33015,0,0.0
+2020-03-08,Norfolk,Massachusetts,25021,4,0.0
+2020-03-08,San Mateo,California,6081,0,0.0
+2020-03-08,Westchester,New York,36119,12,0.0
+2020-03-08,Washoe,Nevada,32031,1,0.0
+2020-03-08,Yolo,California,6113,0,0.0
+2020-03-08,Alameda,California,6001,0,0.0
+2020-03-08,Sacramento,California,6067,0,0.0
+2020-03-08,New York City,New York,-1,2,0.0
+2020-03-08,Fairfax,Virginia,51059,1,0.0
+2020-03-08,Salt Lake,Utah,49035,0,0.0
+2020-03-08,Tulsa,Oklahoma,40143,0,0.0
+2020-03-08,Napa,California,6055,0,0.0
+2020-03-08,Fulton,Georgia,13121,1,0.0
+2020-03-08,Rockland,New York,36087,0,0.0
+2020-03-08,Nassau,New York,36059,1,0.0
+2020-03-08,Eagle,Colorado,8037,0,0.0
+2020-03-08,Camden,New Jersey,34007,0,0.0
+2020-03-08,Douglas,Oregon,41019,1,0.0
+2020-03-09,Salt Lake,Utah,49035,0,0.0
+2020-03-09,Klamath,Oregon,41035,0,0.0
+2020-03-09,Jefferson,Colorado,8059,0,0.0
+2020-03-09,Pottawattamie,Iowa,19155,1,0.0
+2020-03-09,Kittitas,Washington,53037,0,0.0
+2020-03-09,Snohomish,Washington,53061,9,0.0
+2020-03-09,San Diego,California,6073,1,0.0
+2020-03-09,Polk,Georgia,13233,0,0.0
+2020-03-09,Sonoma,California,6097,0,0.0
+2020-03-09,Larimer,Colorado,8069,1,0.0
+2020-03-09,Yolo,California,6113,0,0.0
+2020-03-09,Placer,California,6061,0,0.0
+2020-03-09,Spartanburg,South Carolina,45083,0,0.0
+2020-03-09,Cook,Illinois,17031,4,0.0
+2020-03-09,Virginia Beach city,Virginia,51810,1,0.0
+2020-03-09,Kitsap,Washington,53035,0,0.0
+2020-03-09,Rockingham,New Hampshire,33015,0,0.0
+2020-03-09,Sacramento,California,6067,6,0.0
+2020-03-09,Dane,Wisconsin,55025,0,0.0
+2020-03-09,Jefferson,Washington,53031,0,0.0
+2020-03-09,Worcester,Massachusetts,25027,0,0.0
+2020-03-09,Johnson,Kansas,20091,0,0.0
+2020-03-09,Solano,California,6095,0,0.0
+2020-03-09,Riverside,California,6065,3,0.0
+2020-03-09,Rockland,New York,36087,2,0.0
+2020-03-09,Alameda,California,6001,21,0.0
+2020-03-09,Ramsey,Minnesota,27123,0,0.0
+2020-03-09,Davidson,Tennessee,47037,0,0.0
+2020-03-09,Jefferson,Louisiana,22051,1,0.0
+2020-03-09,Unknown,Rhode Island,-1,0,0.0
+2020-03-09,Arapahoe,Colorado,8005,1,0.0
+2020-03-09,Kershaw,South Carolina,45055,1,0.0
+2020-03-09,Cuyahoga,Ohio,39035,3,0.0
+2020-03-09,Davis,Utah,49011,0,0.0
+2020-03-09,Williamson,Tennessee,47187,1,0.0
+2020-03-09,Johnson,Iowa,19103,4,0.0
+2020-03-09,Jefferson,Kentucky,21111,0,0.0
+2020-03-09,Prince George's,Maryland,24033,1,0.0
+2020-03-09,King,Washington,53033,26,3.0
+2020-03-09,Wake,North Carolina,37183,5,0.0
+2020-03-09,Lee,Florida,12071,0,0.0
+2020-03-09,Charlotte,Florida,12015,0,0.0
+2020-03-09,Broward,Florida,12011,0,0.0
+2020-03-09,Norfolk,Massachusetts,25021,3,0.0
+2020-03-09,Marion,Indiana,18097,0,0.0
+2020-03-09,Marion,Oregon,41047,0,0.0
+2020-03-09,Shasta,California,6089,1,0.0
+2020-03-09,Saratoga,New York,36091,0,0.0
+2020-03-09,Noble,Indiana,18113,1,0.0
+2020-03-09,New York City,New York,-1,6,0.0
+2020-03-09,Middlesex,Massachusetts,25017,5,0.0
+2020-03-09,Santa Rosa,Florida,12113,0,0.0
+2020-03-09,Charleston,South Carolina,45019,0,0.0
+2020-03-09,Jackson,Oregon,41029,0,0.0
+2020-03-09,Washoe,Nevada,32031,0,0.0
+2020-03-09,Monroe,Pennsylvania,42089,1,0.0
+2020-03-09,Santa Cruz,California,6087,1,0.0
+2020-03-09,Camden,New Jersey,34007,0,0.0
+2020-03-09,Nassau,New York,36059,12,0.0
+2020-03-09,Montgomery,Maryland,24031,0,0.0
+2020-03-09,Napa,California,6055,0,0.0
+2020-03-09,Washington,Utah,49053,0,0.0
+2020-03-09,Montgomery,Pennsylvania,42091,3,0.0
+2020-03-09,Santa Clara,California,6085,6,1.0
+2020-03-09,Washington,Oregon,41067,0,0.0
+2020-03-09,Carver,Minnesota,27019,0,0.0
+2020-03-09,Marin,California,6041,1,0.0
+2020-03-09,Westchester,New York,36119,16,0.0
+2020-03-09,Okaloosa,Florida,12091,0,0.0
+2020-03-09,Chatham,North Carolina,37037,0,0.0
+2020-03-09,Pinal,Arizona,4021,0,0.0
+2020-03-09,Volusia,Florida,12127,1,0.0
+2020-03-09,Contra Costa,California,6013,0,0.0
+2020-03-09,Bennington,Vermont,50003,0,0.0
+2020-03-09,Collin,Texas,48085,1,0.0
+2020-03-09,Cobb,Georgia,13067,1,0.0
+2020-03-09,Pima,Arizona,4019,1,0.0
+2020-03-09,Pierce,Wisconsin,55093,1,0.0
+2020-03-09,Clark,Washington,53011,0,0.0
+2020-03-09,Bergen,New Jersey,34003,1,0.0
+2020-03-09,Pierce,Washington,53053,3,0.0
+2020-03-09,Los Angeles,California,6037,5,0.0
+2020-03-09,Berkshire,Massachusetts,25003,4,0.0
+2020-03-09,Madera,California,6039,0,0.0
+2020-03-09,Clark,Nevada,32003,0,0.0
+2020-03-09,Passaic,New Jersey,34031,0,0.0
+2020-03-09,San Francisco,California,6075,5,0.0
+2020-03-09,Orange,California,6059,2,0.0
+2020-03-09,Walla Walla,Washington,53071,0,0.0
+2020-03-09,Cherokee,Georgia,13057,0,0.0
+2020-03-09,Chelan,Washington,53007,0,0.0
+2020-03-09,Bexar,Texas,48029,0,0.0
+2020-03-09,Wayne,Pennsylvania,42127,0,0.0
+2020-03-09,Maricopa,Arizona,4013,0,0.0
+2020-03-09,Shelby,Tennessee,47157,0,0.0
+2020-03-09,San Mateo,California,6081,8,0.0
+2020-03-09,Monmouth,New Jersey,34025,2,0.0
+2020-03-09,Manatee,Florida,12081,0,0.0
+2020-03-09,Douglas,Oregon,41019,0,0.0
+2020-03-09,El Paso,Colorado,8041,0,0.0
+2020-03-09,Grafton,New Hampshire,33009,0,0.0
+2020-03-09,Delaware,Pennsylvania,42045,0,0.0
+2020-03-09,Fayette,Georgia,13113,1,0.0
+2020-03-09,St. Louis,Missouri,29189,0,0.0
+2020-03-09,Fresno,California,6019,0,0.0
+2020-03-09,Eagle,Colorado,8037,1,0.0
+2020-03-09,Humboldt,California,6023,0,0.0
+2020-03-09,Fayette,Kentucky,21067,1,0.0
+2020-03-09,Ulster,New York,36111,0,0.0
+2020-03-09,Tulsa,Oklahoma,40143,0,0.0
+2020-03-09,Denver,Colorado,8031,1,0.0
+2020-03-09,Harrison,Kentucky,21097,0,0.0
+2020-03-09,District of Columbia,District of Columbia,11001,3,0.0
+2020-03-09,DeKalb,Georgia,13089,2,0.0
+2020-03-09,Douglas,Nebraska,31055,0,0.0
+2020-03-09,Hillsborough,Florida,12057,0,0.0
+2020-03-09,Suffolk,Massachusetts,25025,1,0.0
+2020-03-09,Fairfield,Connecticut,9001,1,0.0
+2020-03-09,Fairfax,Virginia,51059,2,0.0
+2020-03-09,Floyd,Georgia,13115,1,0.0
+2020-03-09,Union,New Jersey,34039,1,0.0
+2020-03-09,Fulton,Georgia,13121,0,0.0
+2020-03-09,Hendricks,Indiana,18063,1,0.0
+2020-03-09,Gwinnett,Georgia,13135,1,0.0
+2020-03-09,Spokane,Washington,53063,0,0.0
+2020-03-09,Fort Bend,Texas,48157,0,0.0
+2020-03-09,Douglas,Colorado,8035,0,0.0
+2020-03-09,Harris,Texas,48201,0,0.0
+2020-03-09,Honolulu,Hawaii,15003,0,0.0
+2020-03-09,Suffolk,New York,36103,0,0.0
+2020-03-09,Harford,Maryland,24025,0,0.0
+2020-03-09,Hudson,New Jersey,34017,1,0.0
+2020-03-10,Monroe,Pennsylvania,42089,0,0.0
+2020-03-10,Prince George's,Maryland,24033,2,0.0
+2020-03-10,Collin,Texas,48085,2,0.0
+2020-03-10,Berkshire,Massachusetts,25003,2,0.0
+2020-03-10,Volusia,Florida,12127,0,0.0
+2020-03-10,Suffolk,Massachusetts,25025,10,0.0
+2020-03-10,Monmouth,New Jersey,34025,0,0.0
+2020-03-10,Collier,Florida,12021,3,0.0
+2020-03-10,Passaic,New Jersey,34031,0,0.0
+2020-03-10,Gunnison,Colorado,8051,1,0.0
+2020-03-10,Cobb,Georgia,13067,3,0.0
+2020-03-10,Pasco,Florida,12101,1,0.0
+2020-03-10,Fayette,Georgia,13113,0,0.0
+2020-03-10,Hillsborough,Florida,12057,0,0.0
+2020-03-10,Contra Costa,California,6013,0,0.0
+2020-03-10,Grafton,New Hampshire,33009,0,0.0
+2020-03-10,Klamath,Oregon,41035,0,0.0
+2020-03-10,Montgomery,Texas,48339,1,0.0
+2020-03-10,Ramsey,Minnesota,27123,0,0.0
+2020-03-10,Santa Clara,California,6085,2,0.0
+2020-03-10,San Joaquin,California,6077,1,0.0
+2020-03-10,Montgomery,Pennsylvania,42091,1,0.0
+2020-03-10,Snohomish,Washington,53061,16,0.0
+2020-03-10,Douglas,Nebraska,31055,1,0.0
+2020-03-10,Arapahoe,Colorado,8005,1,0.0
+2020-03-10,Montgomery,Maryland,24031,1,0.0
+2020-03-10,Orleans,Louisiana,22071,5,0.0
+2020-03-10,Larimer,Colorado,8069,0,0.0
+2020-03-10,Charles Mix,South Dakota,46023,1,0.0
+2020-03-10,Cook,Illinois,17031,6,0.0
+2020-03-10,District of Columbia,District of Columbia,11001,0,0.0
+2020-03-10,Pottawattamie,Iowa,19155,0,0.0
+2020-03-10,Williamson,Tennessee,47187,2,0.0
+2020-03-10,Lee,Florida,12071,0,0.0
+2020-03-10,San Francisco,California,6075,1,0.0
+2020-03-10,Santa Cruz,California,6087,0,0.0
+2020-03-10,Spokane,Washington,53063,0,0.0
+2020-03-10,Minnehaha,South Dakota,46099,1,0.0
+2020-03-10,Polk,Georgia,13233,0,0.0
+2020-03-10,Wake,North Carolina,37183,0,0.0
+2020-03-10,Manatee,Florida,12081,0,0.0
+2020-03-10,Marion,Oregon,41047,0,0.0
+2020-03-10,Ulster,New York,36111,0,0.0
+2020-03-10,Walla Walla,Washington,53071,0,0.0
+2020-03-10,Westchester,New York,36119,10,0.0
+2020-03-10,Marion,Indiana,18097,0,0.0
+2020-03-10,Cherokee,Georgia,13057,0,0.0
+2020-03-10,Bennington,Vermont,50003,0,0.0
+2020-03-10,Pinellas,Florida,12103,2,0.0
+2020-03-10,Suffolk,New York,36103,0,0.0
+2020-03-10,San Mateo,California,6081,0,0.0
+2020-03-10,Pima,Arizona,4019,0,0.0
+2020-03-10,Harris,Texas,48201,1,0.0
+2020-03-10,Marin,California,6041,0,0.0
+2020-03-10,Shelby,Tennessee,47157,0,0.0
+2020-03-10,St. Louis,Missouri,29189,0,0.0
+2020-03-10,Charlotte,Florida,12015,0,0.0
+2020-03-10,Maricopa,Arizona,4013,0,0.0
+2020-03-10,Pinal,Arizona,4021,0,0.0
+2020-03-10,Charlton,Georgia,13049,1,0.0
+2020-03-10,Chatham,North Carolina,37037,0,0.0
+2020-03-10,Harford,Maryland,24025,0,0.0
+2020-03-10,Chelan,Washington,53007,0,0.0
+2020-03-10,Shasta,California,6089,0,0.0
+2020-03-10,Beadle,South Dakota,46005,1,0.0
+2020-03-10,Harrison,Kentucky,21097,2,0.0
+2020-03-10,Sullivan,Tennessee,47163,1,0.0
+2020-03-10,Santa Rosa,Florida,12113,0,0.0
+2020-03-10,Clark,Washington,53011,0,0.0
+2020-03-10,San Diego,California,6073,0,0.0
+2020-03-10,Philadelphia,Pennsylvania,42101,1,0.0
+2020-03-10,Washington,Oregon,41067,0,0.0
+2020-03-10,Middlesex,Massachusetts,25017,26,0.0
+2020-03-10,Los Angeles,California,6037,1,0.0
+2020-03-10,Charleston,South Carolina,45019,0,0.0
+2020-03-10,Loudoun,Virginia,51107,2,0.0
+2020-03-10,Bergen,New Jersey,34003,2,1.0
+2020-03-10,Douglas,Colorado,8035,0,0.0
+2020-03-10,Gwinnett,Georgia,13135,0,0.0
+2020-03-10,Saratoga,New York,36091,0,0.0
+2020-03-10,Skagit,Washington,53057,1,0.0
+2020-03-10,Placer,California,6061,0,0.0
+2020-03-10,Fayette,Kentucky,21067,0,0.0
+2020-03-10,Pierce,Washington,53053,7,0.0
+2020-03-10,Madera,California,6039,0,0.0
+2020-03-10,McHenry,Illinois,17111,1,0.0
+2020-03-10,Whatcom,Washington,53073,1,0.0
+2020-03-10,Clark,Nevada,32003,0,0.0
+2020-03-10,Pierce,Wisconsin,55093,0,0.0
+2020-03-10,Hendricks,Indiana,18063,0,0.0
+2020-03-10,Anoka,Minnesota,27003,1,0.0
+2020-03-10,Floyd,Georgia,13115,0,0.0
+2020-03-10,Tulsa,Oklahoma,40143,1,0.0
+2020-03-10,New York City,New York,-1,17,0.0
+2020-03-10,Noble,Indiana,18113,0,0.0
+2020-03-10,Davis,Utah,49011,0,0.0
+2020-03-10,Sonoma,California,6097,0,0.0
+2020-03-10,Dallas,Texas,48113,2,0.0
+2020-03-10,Nassau,Florida,12089,1,0.0
+2020-03-10,Fairfax,Virginia,51059,0,0.0
+2020-03-10,Eagle,Colorado,8037,1,0.0
+2020-03-10,Bexar,Texas,48029,0,0.0
+2020-03-10,Alachua,Florida,12001,1,0.0
+2020-03-10,Norfolk,Massachusetts,25021,12,0.0
+2020-03-10,Essex,Massachusetts,25009,1,0.0
+2020-03-10,Fairfield,Connecticut,9001,0,0.0
+2020-03-10,Kershaw,South Carolina,45055,2,0.0
+2020-03-10,Washington,Utah,49053,0,0.0
+2020-03-10,Fresno,California,6019,0,0.0
+2020-03-10,Humboldt,California,6023,0,0.0
+2020-03-10,Burlington,New Jersey,34005,2,0.0
+2020-03-10,Johnson,Kansas,20091,0,0.0
+2020-03-10,Wayne,Pennsylvania,42127,0,0.0
+2020-03-10,Wayne,Michigan,26163,1,0.0
+2020-03-10,Jefferson,Kentucky,21111,0,0.0
+2020-03-10,Dane,Wisconsin,55025,1,0.0
+2020-03-10,Boone,Indiana,18011,1,0.0
+2020-03-10,Solano,California,6095,0,0.0
+2020-03-10,Camden,New Jersey,34007,0,0.0
+2020-03-10,Jefferson,Colorado,8059,1,0.0
+2020-03-10,Hudson,New Jersey,34017,0,0.0
+2020-03-10,Kane,Illinois,17089,1,0.0
+2020-03-10,Sacramento,California,6067,0,1.0
+2020-03-10,Davison,South Dakota,46035,2,1.0
+2020-03-10,Rockland,New York,36087,2,0.0
+2020-03-10,Denver,Colorado,8031,1,0.0
+2020-03-10,Napa,California,6055,0,0.0
+2020-03-10,Nassau,New York,36059,2,0.0
+2020-03-10,Washoe,Nevada,32031,0,0.0
+2020-03-10,Unknown,Rhode Island,-1,2,0.0
+2020-03-10,Davidson,Tennessee,47037,0,0.0
+2020-03-10,Kitsap,Washington,53035,1,0.0
+2020-03-10,Spartanburg,South Carolina,45083,0,0.0
+2020-03-10,El Paso,Colorado,8041,0,0.0
+2020-03-10,Riverside,California,6065,0,0.0
+2020-03-10,Broward,Florida,12011,1,0.0
+2020-03-10,Worcester,Massachusetts,25027,0,0.0
+2020-03-10,Orange,California,6059,0,0.0
+2020-03-10,Jefferson,Louisiana,22051,0,0.0
+2020-03-10,Oakland,Michigan,26125,1,0.0
+2020-03-10,Fulton,Georgia,13121,1,0.0
+2020-03-10,Alameda,California,6001,1,0.0
+2020-03-10,Kittitas,Washington,53037,0,0.0
+2020-03-10,Multnomah,Oregon,41051,1,0.0
+2020-03-10,Virginia Beach city,Virginia,51810,1,0.0
+2020-03-10,Salt Lake,Utah,49035,0,0.0
+2020-03-10,Union,New Jersey,34039,0,0.0
+2020-03-10,Carver,Minnesota,27019,0,0.0
+2020-03-10,Jefferson,Washington,53031,0,0.0
+2020-03-10,Douglas,Oregon,41019,0,0.0
+2020-03-10,Delaware,Pennsylvania,42045,0,0.0
+2020-03-10,Okaloosa,Florida,12091,0,0.0
+2020-03-10,Rockingham,New Hampshire,33015,1,0.0
+2020-03-10,Fort Bend,Texas,48157,0,0.0
+2020-03-10,Cuyahoga,Ohio,39035,0,0.0
+2020-03-10,Weber,Utah,49057,1,0.0
+2020-03-10,Tarrant,Texas,48439,1,0.0
+2020-03-10,Ventura,California,6111,1,0.0
+2020-03-10,Johnson,Iowa,19103,5,0.0
+2020-03-10,Jackson,Oregon,41029,0,0.0
+2020-03-10,Honolulu,Hawaii,15003,0,0.0
+2020-03-10,Yolo,California,6113,0,0.0
+2020-03-10,King,Washington,53033,74,2.0
+2020-03-10,Adams,Indiana,18001,1,0.0
+2020-03-10,DeKalb,Georgia,13089,0,0.0
+2020-03-11,Washington,Oregon,41067,0,0.0
+2020-03-11,Noble,Indiana,18113,0,0.0
+2020-03-11,Wayne,Michigan,26163,0,0.0
+2020-03-11,McHenry,Illinois,17111,0,0.0
+2020-03-11,New York City,New York,-1,15,0.0
+2020-03-11,Gwinnett,Georgia,13135,0,0.0
+2020-03-11,Burlington,New Jersey,34005,0,0.0
+2020-03-11,Waukesha,Wisconsin,55133,1,0.0
+2020-03-11,Marion,Oregon,41047,1,0.0
+2020-03-11,Oakland,Michigan,26125,0,0.0
+2020-03-11,Charlton,Georgia,13049,0,0.0
+2020-03-11,Eagle,Colorado,8037,1,0.0
+2020-03-11,Charlotte,Florida,12015,0,0.0
+2020-03-11,Fresno,California,6019,0,0.0
+2020-03-11,Broward,Florida,12011,1,0.0
+2020-03-11,Suffolk,New York,36103,5,0.0
+2020-03-11,Marin,California,6041,2,0.0
+2020-03-11,Pima,Arizona,4019,0,0.0
+2020-03-11,Okaloosa,Florida,12091,0,0.0
+2020-03-11,Norfolk,Massachusetts,25021,0,0.0
+2020-03-11,Stanislaus,California,6099,2,0.0
+2020-03-11,Bennington,Vermont,50003,0,0.0
+2020-03-11,Marion,Indiana,18097,0,0.0
+2020-03-11,Bucks,Pennsylvania,42017,2,0.0
+2020-03-11,Fond du Lac,Wisconsin,55039,2,0.0
+2020-03-11,Shasta,California,6089,0,0.0
+2020-03-11,Stark,Ohio,39151,1,0.0
+2020-03-11,Olmsted,Minnesota,27109,1,0.0
+2020-03-11,Pierce,Wisconsin,55093,0,0.0
+2020-03-11,Forrest,Mississippi,28035,1,0.0
+2020-03-11,Tulsa,Oklahoma,40143,0,0.0
+2020-03-11,Saratoga,New York,36091,0,0.0
+2020-03-11,Nassau,Florida,12089,0,0.0
+2020-03-11,Monroe,Pennsylvania,42089,1,0.0
+2020-03-11,Santa Cruz,California,6087,0,0.0
+2020-03-11,Napa,California,6055,0,0.0
+2020-03-11,Douglas,Colorado,8035,0,0.0
+2020-03-11,El Paso,Colorado,8041,0,0.0
+2020-03-11,Douglas,Oregon,41019,0,0.0
+2020-03-11,San Francisco,California,6075,0,0.0
+2020-03-11,Orleans,Louisiana,22071,6,0.0
+2020-03-11,Charles Mix,South Dakota,46023,0,0.0
+2020-03-11,Fort Bend,Texas,48157,0,0.0
+2020-03-11,Bernalillo,New Mexico,35001,1,0.0
+2020-03-11,Montgomery,Maryland,24031,1,0.0
+2020-03-11,Santa Clara,California,6085,3,0.0
+2020-03-11,Carver,Minnesota,27019,0,0.0
+2020-03-11,Douglas,Nebraska,31055,6,0.0
+2020-03-11,Weber,Utah,49057,0,0.0
+2020-03-11,Montgomery,Pennsylvania,42091,1,0.0
+2020-03-11,San Joaquin,California,6077,0,0.0
+2020-03-11,Montgomery,Texas,48339,0,0.0
+2020-03-11,Orange,California,6059,1,0.0
+2020-03-11,Grafton,New Hampshire,33009,0,0.0
+2020-03-11,Multnomah,Oregon,41051,0,0.0
+2020-03-11,Gregg,Texas,48183,1,0.0
+2020-03-11,Santa Fe,New Mexico,35049,1,0.0
+2020-03-11,Bexar,Texas,48029,0,0.0
+2020-03-11,Pasco,Florida,12101,0,0.0
+2020-03-11,Washoe,Nevada,32031,0,0.0
+2020-03-11,Miami-Dade,Florida,12086,1,0.0
+2020-03-11,Fulton,Georgia,13121,0,0.0
+2020-03-11,Charleston,South Carolina,45019,0,0.0
+2020-03-11,Boone,Indiana,18011,0,0.0
+2020-03-11,Caddo,Louisiana,22017,1,0.0
+2020-03-11,Bergen,New Jersey,34003,4,0.0
+2020-03-11,New Castle,Delaware,10003,1,0.0
+2020-03-11,Middlesex,Massachusetts,25017,0,0.0
+2020-03-11,Philadelphia,Pennsylvania,42101,0,0.0
+2020-03-11,Middlesex,New Jersey,34023,2,0.0
+2020-03-11,Pierce,Washington,53053,3,0.0
+2020-03-11,Suffolk,Massachusetts,25025,0,0.0
+2020-03-11,Bon Homme,South Dakota,46009,1,0.0
+2020-03-11,Nassau,New York,36059,9,0.0
+2020-03-11,Minnehaha,South Dakota,46099,2,0.0
+2020-03-11,Passaic,New Jersey,34031,0,0.0
+2020-03-11,Wayne,Pennsylvania,42127,0,0.0
+2020-03-11,Gunnison,Colorado,8051,2,0.0
+2020-03-11,Camden,New Jersey,34007,0,0.0
+2020-03-11,Monmouth,New Jersey,34025,2,0.0
+2020-03-11,Washington,Utah,49053,0,0.0
+2020-03-11,Berkshire,Massachusetts,25003,2,0.0
+2020-03-11,Monroe,New York,36055,1,0.0
+2020-03-11,Santa Rosa,Florida,12113,0,0.0
+2020-03-11,Thurston,Washington,53067,1,0.0
+2020-03-11,San Mateo,California,6081,6,0.0
+2020-03-11,Harford,Maryland,24025,0,0.0
+2020-03-11,Williamson,Tennessee,47187,0,0.0
+2020-03-11,Floyd,Georgia,13115,1,0.0
+2020-03-11,Lancaster,South Carolina,45057,1,0.0
+2020-03-11,Arapahoe,Colorado,8005,1,0.0
+2020-03-11,Cook,Illinois,17031,5,0.0
+2020-03-11,Johnson,Indiana,18081,3,0.0
+2020-03-11,Larimer,Colorado,8069,0,0.0
+2020-03-11,Dane,Wisconsin,55025,0,0.0
+2020-03-11,District of Columbia,District of Columbia,11001,6,0.0
+2020-03-11,Ulster,New York,36111,1,0.0
+2020-03-11,Lee,Florida,12071,0,0.0
+2020-03-11,Arlington,Virginia,51013,2,0.0
+2020-03-11,Lee,Georgia,13177,1,0.0
+2020-03-11,Lake,Illinois,17097,1,0.0
+2020-03-11,Alameda,California,6001,0,0.0
+2020-03-11,Jefferson,Washington,53031,0,0.0
+2020-03-11,Union,New Jersey,34039,0,0.0
+2020-03-11,Davidson,Tennessee,47037,1,0.0
+2020-03-11,Spokane,Washington,53063,0,0.0
+2020-03-11,Volusia,Florida,12127,0,0.0
+2020-03-11,Tarrant,Texas,48439,0,0.0
+2020-03-11,Prince George's,Maryland,24033,2,0.0
+2020-03-11,Linn,Oregon,41043,2,0.0
+2020-03-11,Fayette,Georgia,13113,0,0.0
+2020-03-11,Jefferson,Louisiana,22051,0,0.0
+2020-03-11,Fairfax,Virginia,51059,0,0.0
+2020-03-11,Baltimore,Maryland,24005,1,0.0
+2020-03-11,Collier,Florida,12021,0,0.0
+2020-03-11,Contra Costa,California,6013,0,0.0
+2020-03-11,Cobb,Georgia,13067,1,0.0
+2020-03-11,Snohomish,Washington,53061,8,1.0
+2020-03-11,Socorro,New Mexico,35053,2,0.0
+2020-03-11,Dallas,Texas,48113,1,0.0
+2020-03-11,Howard,Indiana,18067,1,0.0
+2020-03-11,Denver,Colorado,8031,2,0.0
+2020-03-11,Rockland,New York,36087,0,0.0
+2020-03-11,Kershaw,South Carolina,45055,0,0.0
+2020-03-11,Worcester,Massachusetts,25027,1,0.0
+2020-03-11,Hudson,New Jersey,34017,0,0.0
+2020-03-11,Unknown,Rhode Island,-1,0,0.0
+2020-03-11,Rockingham,New Hampshire,33015,0,0.0
+2020-03-11,Cuyahoga,Ohio,39035,0,0.0
+2020-03-11,Johnson,Kansas,20091,0,0.0
+2020-03-11,Ventura,California,6111,1,0.0
+2020-03-11,Honolulu,Hawaii,15003,0,0.0
+2020-03-11,Delaware,Pennsylvania,42045,0,0.0
+2020-03-11,King,Washington,53033,44,4.0
+2020-03-11,Riverside,California,6065,0,0.0
+2020-03-11,Kitsap,Washington,53035,0,0.0
+2020-03-11,Umatilla,Oregon,41059,1,0.0
+2020-03-11,Virginia Beach city,Virginia,51810,0,0.0
+2020-03-11,Deschutes,Oregon,41017,1,0.0
+2020-03-11,Kittitas,Washington,53037,2,0.0
+2020-03-11,Fairfield,Connecticut,9001,1,0.0
+2020-03-11,Anoka,Minnesota,27003,0,0.0
+2020-03-11,Solano,California,6095,0,0.0
+2020-03-11,Hillsborough,Florida,12057,0,0.0
+2020-03-11,Johnson,Iowa,19103,1,0.0
+2020-03-11,Klamath,Oregon,41035,0,0.0
+2020-03-11,Ramsey,Minnesota,27123,1,0.0
+2020-03-11,Salt Lake,Utah,49035,1,0.0
+2020-03-11,Pottawattamie,Iowa,19155,0,0.0
+2020-03-11,Collin,Texas,48085,0,0.0
+2020-03-11,Alachua,Florida,12001,0,0.0
+2020-03-11,Sonoma,California,6097,0,0.0
+2020-03-11,Fayette,Kentucky,21067,0,0.0
+2020-03-11,Sullivan,Tennessee,47163,0,0.0
+2020-03-11,Whatcom,Washington,53073,0,0.0
+2020-03-11,Sheridan,Wyoming,56033,1,0.0
+2020-03-11,Essex,Massachusetts,25009,0,0.0
+2020-03-11,Harrison,Kentucky,21097,0,0.0
+2020-03-11,Beadle,South Dakota,46005,0,0.0
+2020-03-11,Chittenden,Vermont,50007,1,0.0
+2020-03-11,Manatee,Florida,12081,0,0.0
+2020-03-11,Adams,Indiana,18001,0,0.0
+2020-03-11,Jackson,Oregon,41029,0,0.0
+2020-03-11,Pitkin,Colorado,8097,9,0.0
+2020-03-11,Shelby,Tennessee,47157,0,0.0
+2020-03-11,Westchester,New York,36119,13,0.0
+2020-03-11,Yolo,California,6113,0,0.0
+2020-03-11,Walla Walla,Washington,53071,0,0.0
+2020-03-11,Cherokee,Georgia,13057,0,0.0
+2020-03-11,Davison,South Dakota,46035,0,0.0
+2020-03-11,Spartanburg,South Carolina,45083,0,0.0
+2020-03-11,Harris,Texas,48201,0,0.0
+2020-03-11,Pinellas,Florida,12103,0,0.0
+2020-03-11,Chelan,Washington,53007,0,0.0
+2020-03-11,Ward,North Dakota,38101,1,0.0
+2020-03-11,Pinal,Arizona,4021,2,0.0
+2020-03-11,Island,Washington,53029,1,0.0
+2020-03-11,Chatham,North Carolina,37037,0,0.0
+2020-03-11,St. Louis,Missouri,29189,0,0.0
+2020-03-11,Maricopa,Arizona,4013,1,0.0
+2020-03-11,St. Joseph,Indiana,18141,1,0.0
+2020-03-11,Clark,Nevada,32003,3,0.0
+2020-03-11,Madera,California,6039,0,0.0
+2020-03-11,Jefferson,Arkansas,5069,1,0.0
+2020-03-11,Hendricks,Indiana,18063,0,0.0
+2020-03-11,Wake,North Carolina,37183,1,0.0
+2020-03-11,Jefferson,Kentucky,21111,0,0.0
+2020-03-11,Polk,Oregon,41053,1,0.0
+2020-03-11,DeKalb,Georgia,13089,2,0.0
+2020-03-11,Davis,Utah,49011,0,0.0
+2020-03-11,Clark,Washington,53011,0,0.0
+2020-03-11,St. Johns,Florida,12109,1,0.0
+2020-03-11,Placer,California,6061,0,0.0
+2020-03-11,Jefferson,Colorado,8059,2,0.0
+2020-03-11,Polk,Georgia,13233,0,0.0
+2020-03-11,Sacramento,California,6067,0,0.0
+2020-03-11,Los Angeles,California,6037,8,1.0
+2020-03-11,Bartow,Georgia,13015,3,0.0
+2020-03-11,Kane,Illinois,17089,0,0.0
+2020-03-11,San Diego,California,6073,0,0.0
+2020-03-11,Skagit,Washington,53057,0,0.0
+2020-03-11,Loudoun,Virginia,51107,0,0.0
+2020-03-11,Lowndes,Georgia,13185,1,0.0
+2020-03-11,Humboldt,California,6023,0,0.0
+2020-03-12,Fresno,California,6019,0,0.0
+2020-03-12,Eagle,Colorado,8037,7,0.0
+2020-03-12,Essex,New Jersey,34013,1,0.0
+2020-03-12,Wayne,Pennsylvania,42127,0,0.0
+2020-03-12,Yakima,Washington,53077,2,0.0
+2020-03-12,Alachua,Florida,12001,1,0.0
+2020-03-12,Albany,New York,36001,2,0.0
+2020-03-12,Onslow,North Carolina,37133,1,0.0
+2020-03-12,Wayne,Michigan,26163,0,0.0
+2020-03-12,Yolo,California,6113,0,0.0
+2020-03-12,Bexar,Texas,48029,0,0.0
+2020-03-12,Wyandotte,Kansas,20209,1,1.0
+2020-03-12,Adams,Colorado,8001,2,0.0
+2020-03-12,Boone,Indiana,18011,0,0.0
+2020-03-12,Tarrant,Texas,48439,0,0.0
+2020-03-12,Okaloosa,Florida,12091,0,0.0
+2020-03-12,Salt Lake,Utah,49035,2,0.0
+2020-03-12,Essex,Massachusetts,25009,1,0.0
+2020-03-12,Alameda,California,6001,4,0.0
+2020-03-12,Alexandria city,Virginia,51510,1,0.0
+2020-03-12,Bon Homme,South Dakota,46009,0,0.0
+2020-03-12,Tulare,California,6107,1,0.0
+2020-03-12,Adams,Indiana,18001,0,0.0
+2020-03-12,Sacramento,California,6067,7,0.0
+2020-03-12,Rockland,New York,36087,1,0.0
+2020-03-12,Olmsted,Minnesota,27109,0,0.0
+2020-03-12,Sullivan,Tennessee,47163,0,0.0
+2020-03-12,Fort Bend,Texas,48157,0,0.0
+2020-03-12,Whatcom,Washington,53073,0,0.0
+2020-03-12,Polk,Oregon,41053,0,0.0
+2020-03-12,Forsyth,North Carolina,37067,2,0.0
+2020-03-12,Suffolk,Massachusetts,25025,2,0.0
+2020-03-12,Polk,Georgia,13233,0,0.0
+2020-03-12,Philadelphia,Pennsylvania,42101,0,0.0
+2020-03-12,Trumbull,Ohio,39155,1,0.0
+2020-03-12,Bergen,New Jersey,34003,2,0.0
+2020-03-12,Bartow,Georgia,13015,0,0.0
+2020-03-12,San Diego,California,6073,3,0.0
+2020-03-12,Forrest,Mississippi,28035,0,0.0
+2020-03-12,Placer,California,6061,0,0.0
+2020-03-12,Pierce,Washington,53053,0,0.0
+2020-03-12,Fond du Lac,Wisconsin,55039,0,0.0
+2020-03-12,Westchester,New York,36119,27,0.0
+2020-03-12,Pitkin,Colorado,8097,1,0.0
+2020-03-12,Pierce,Wisconsin,55093,0,0.0
+2020-03-12,Bennington,Vermont,50003,0,0.0
+2020-03-12,Pike,Pennsylvania,42103,1,0.0
+2020-03-12,Pinellas,Florida,12103,0,0.0
+2020-03-12,Fayette,Kentucky,21067,1,0.0
+2020-03-12,Pinal,Arizona,4021,0,0.0
+2020-03-12,Pima,Arizona,4019,0,0.0
+2020-03-12,Floyd,Georgia,13115,0,0.0
+2020-03-12,Suffolk,New York,36103,15,0.0
+2020-03-12,Passaic,New Jersey,34031,0,0.0
+2020-03-12,Pottawattamie,Iowa,19155,0,0.0
+2020-03-12,Baltimore,Maryland,24005,0,0.0
+2020-03-12,Prince Edward,Virginia,51147,1,0.0
+2020-03-12,Worcester,Massachusetts,25027,0,0.0
+2020-03-12,Rockingham,New Hampshire,33015,1,0.0
+2020-03-12,Fairfax,Virginia,51059,0,0.0
+2020-03-12,Bernalillo,New Mexico,35001,1,0.0
+2020-03-12,Androscoggin,Maine,23001,1,0.0
+2020-03-12,Riverside,California,6065,2,0.0
+2020-03-12,Orange,California,6059,0,0.0
+2020-03-12,Ramsey,Minnesota,27123,0,0.0
+2020-03-12,San Joaquin,California,6077,2,0.0
+2020-03-12,Fairfield,Connecticut,9001,2,0.0
+2020-03-12,Anoka,Minnesota,27003,0,0.0
+2020-03-12,Williamson,Tennessee,47187,4,0.0
+2020-03-12,Anchorage,Alaska,2020,1,0.0
+2020-03-12,Orange,New York,36071,1,0.0
+2020-03-12,Pulaski,Arkansas,5119,5,0.0
+2020-03-12,Arapahoe,Colorado,8005,0,0.0
+2020-03-12,Orleans,Louisiana,22071,1,0.0
+2020-03-12,Prince William,Virginia,51153,1,0.0
+2020-03-12,Arlington,Virginia,51013,0,0.0
+2020-03-12,El Paso,Colorado,8041,0,1.0
+2020-03-12,Palm Beach,Florida,12099,2,0.0
+2020-03-12,Weber,Utah,49057,0,0.0
+2020-03-12,Berkshire,Massachusetts,25003,0,0.0
+2020-03-12,Prince George's,Maryland,24033,0,0.0
+2020-03-12,Fayette,Georgia,13113,0,0.0
+2020-03-12,Pasco,Florida,12101,0,0.0
+2020-03-12,San Francisco,California,6075,4,0.0
+2020-03-12,Beadle,South Dakota,46005,0,0.0
+2020-03-12,Montcalm,Michigan,26117,1,0.0
+2020-03-12,Chittenden,Vermont,50007,0,0.0
+2020-03-12,Cherokee,Georgia,13057,0,0.0
+2020-03-12,Shelby,Tennessee,47157,1,0.0
+2020-03-12,Manatee,Florida,12081,0,0.0
+2020-03-12,Thurston,Washington,53067,0,0.0
+2020-03-12,San Mateo,California,6081,5,0.0
+2020-03-12,Clackamas,Oregon,41005,1,0.0
+2020-03-12,Harrison,Kentucky,21097,1,0.0
+2020-03-12,Johnson,Kansas,20091,3,0.0
+2020-03-12,Harris,Texas,48201,2,0.0
+2020-03-12,Madera,California,6039,0,0.0
+2020-03-12,Sheridan,Wyoming,56033,0,0.0
+2020-03-12,Johnston,North Carolina,37101,1,0.0
+2020-03-12,Kane,Illinois,17089,1,0.0
+2020-03-12,Lowndes,Georgia,13185,0,0.0
+2020-03-12,Skagit,Washington,53057,1,0.0
+2020-03-12,Loudoun,Virginia,51107,0,0.0
+2020-03-12,Dallas,Texas,48113,5,0.0
+2020-03-12,Kent,Michigan,26081,3,0.0
+2020-03-12,St. Joseph,Indiana,18141,0,0.0
+2020-03-12,Los Angeles,California,6037,4,0.0
+2020-03-12,Walla Walla,Washington,53071,0,0.0
+2020-03-12,Chelan,Washington,53007,0,0.0
+2020-03-12,Marion,Oregon,41047,0,0.0
+2020-03-12,Deschutes,Oregon,41017,0,0.0
+2020-03-12,Shasta,California,6089,0,0.0
+2020-03-12,Marion,Indiana,18097,1,0.0
+2020-03-12,Johnson,Indiana,18081,0,0.0
+2020-03-12,Stanislaus,California,6099,0,0.0
+2020-03-12,Hanover,Virginia,51085,1,0.0
+2020-03-12,Marin,California,6041,0,0.0
+2020-03-12,Hudson,New Jersey,34017,0,0.0
+2020-03-12,Delaware,Pennsylvania,42045,0,0.0
+2020-03-12,Charlotte,Florida,12015,0,0.0
+2020-03-12,Charlton,Georgia,13049,0,0.0
+2020-03-12,Solano,California,6095,0,0.0
+2020-03-12,Harford,Maryland,24025,0,0.0
+2020-03-12,St. Louis,Missouri,29189,0,0.0
+2020-03-12,Maricopa,Arizona,4013,0,0.0
+2020-03-12,Chatham,North Carolina,37037,0,0.0
+2020-03-12,Ward,North Dakota,38101,0,0.0
+2020-03-12,Johnson,Iowa,19103,1,0.0
+2020-03-12,Seminole,Florida,12117,1,0.0
+2020-03-12,St. Johns,Florida,12109,0,0.0
+2020-03-12,Howard,Indiana,18067,0,0.0
+2020-03-12,Herkimer,New York,36043,1,0.0
+2020-03-12,Lee,Florida,12071,2,0.0
+2020-03-12,District of Columbia,District of Columbia,11001,0,0.0
+2020-03-12,Larimer,Colorado,8069,0,0.0
+2020-03-12,Ulster,New York,36111,2,0.0
+2020-03-12,Cook,Illinois,17031,5,0.0
+2020-03-12,Lancaster,South Carolina,45057,1,0.0
+2020-03-12,Lake,Illinois,17097,0,0.0
+2020-03-12,Lee,Georgia,13177,0,0.0
+2020-03-12,Snohomish,Washington,53061,38,2.0
+2020-03-12,King,Washington,53033,36,1.0
+2020-03-12,Ventura,California,6111,0,0.0
+2020-03-12,Socorro,New Mexico,35053,0,0.0
+2020-03-12,Klamath,Oregon,41035,0,0.0
+2020-03-12,Hillsborough,Florida,12057,1,0.0
+2020-03-12,Umatilla,Oregon,41059,1,0.0
+2020-03-12,Virginia Beach city,Virginia,51810,0,0.0
+2020-03-12,Kittitas,Washington,53037,0,0.0
+2020-03-12,Knox,Tennessee,47093,1,0.0
+2020-03-12,Clark,Nevada,32003,3,0.0
+2020-03-12,Contra Costa,California,6013,0,0.0
+2020-03-12,Columbia,Washington,53013,1,0.0
+2020-03-12,Denver,Colorado,8031,3,0.0
+2020-03-12,Kershaw,South Carolina,45055,1,0.0
+2020-03-12,Clark,Washington,53011,0,0.0
+2020-03-12,Wake,North Carolina,37183,1,0.0
+2020-03-12,Clay,Florida,12019,1,0.0
+2020-03-12,Hendricks,Indiana,18063,0,0.0
+2020-03-12,St. Clair,Michigan,26147,1,0.0
+2020-03-12,Dakota,Minnesota,27037,1,0.0
+2020-03-12,Spokane,Washington,53063,0,0.0
+2020-03-12,Hennepin,Minnesota,27053,1,0.0
+2020-03-12,Unknown,Rhode Island,-1,0,0.0
+2020-03-12,Collier,Florida,12021,0,0.0
+2020-03-12,Cuyahoga,Ohio,39035,0,0.0
+2020-03-12,Litchfield,Connecticut,9005,1,0.0
+2020-03-12,Collin,Texas,48085,1,0.0
+2020-03-12,Linn,Oregon,41043,6,0.0
+2020-03-12,Honolulu,Hawaii,15003,0,0.0
+2020-03-12,Volusia,Florida,12127,1,0.0
+2020-03-12,Cobb,Georgia,13067,0,1.0
+2020-03-12,McHenry,Illinois,17111,1,0.0
+2020-03-12,Gwinnett,Georgia,13135,0,0.0
+2020-03-12,Kitsap,Washington,53035,0,0.0
+2020-03-12,Carson City,Nevada,32510,1,0.0
+2020-03-12,Jefferson,Arkansas,5069,0,0.0
+2020-03-12,Douglas,Nebraska,31055,0,0.0
+2020-03-12,Carver,Minnesota,27019,0,0.0
+2020-03-12,Washtenaw,Michigan,26161,2,0.0
+2020-03-12,Washington,Oregon,41067,2,0.0
+2020-03-12,Cass,Nebraska,31025,1,0.0
+2020-03-12,Multnomah,Oregon,41051,0,0.0
+2020-03-12,Ingham,Michigan,26065,1,0.0
+2020-03-12,Morris,New Jersey,34027,1,0.0
+2020-03-12,Dane,Wisconsin,55025,2,0.0
+2020-03-12,Montgomery,Texas,48339,0,0.0
+2020-03-12,Grafton,New Hampshire,33009,0,0.0
+2020-03-12,Montgomery,Pennsylvania,42091,4,0.0
+2020-03-12,Santa Clara,California,6085,18,0.0
+2020-03-12,Davis,Utah,49011,0,0.0
+2020-03-12,Montgomery,Maryland,24031,0,0.0
+2020-03-12,Sonoma,California,6097,0,0.0
+2020-03-12,Grays Harbor,Washington,53027,1,0.0
+2020-03-12,James City,Virginia,51095,3,0.0
+2020-03-12,Carroll,Iowa,19027,1,0.0
+2020-03-12,Burlington,New Jersey,34005,0,0.0
+2020-03-12,New York City,New York,-1,44,0.0
+2020-03-12,Jackson,Oregon,41029,0,0.0
+2020-03-12,Unknown,New Jersey,-1,1,0.0
+2020-03-12,Washoe,Nevada,32031,0,0.0
+2020-03-12,Fulton,Georgia,13121,0,0.0
+2020-03-12,Cabarrus,North Carolina,37025,1,0.0
+2020-03-12,Caddo,Louisiana,22017,0,0.0
+2020-03-12,Humboldt,California,6023,0,0.0
+2020-03-12,New Castle,Delaware,10003,3,0.0
+2020-03-12,Dutchess,New York,36027,1,0.0
+2020-03-12,Nassau,New York,36059,13,0.0
+2020-03-12,Tulsa,Oklahoma,40143,0,0.0
+2020-03-12,Douglas,Oregon,41019,0,0.0
+2020-03-12,Camden,New Jersey,34007,0,0.0
+2020-03-12,Washington,Utah,49053,0,0.0
+2020-03-12,Nassau,Florida,12089,0,0.0
+2020-03-12,Napa,California,6055,0,0.0
+2020-03-12,Duval,Florida,12031,1,0.0
+2020-03-12,Charles Mix,South Dakota,46023,0,0.0
+2020-03-12,Greene,Missouri,29077,1,0.0
+2020-03-12,Santa Rosa,Florida,12113,0,0.0
+2020-03-12,Union,New Jersey,34039,0,0.0
+2020-03-12,Middlesex,New Jersey,34023,0,0.0
+2020-03-12,Jefferson,Louisiana,22051,0,0.0
+2020-03-12,Sarasota,Florida,12115,2,0.0
+2020-03-12,Broward,Florida,12011,7,0.0
+2020-03-12,Northampton,Pennsylvania,42095,1,0.0
+2020-03-12,Middlesex,Massachusetts,25017,8,0.0
+2020-03-12,Delaware,New York,36025,1,0.0
+2020-03-12,Davidson,Tennessee,47037,4,0.0
+2020-03-12,Stark,Ohio,39151,0,0.0
+2020-03-12,Charleston,South Carolina,45019,0,0.0
+2020-03-12,Jefferson,Washington,53031,0,0.0
+2020-03-12,Miami-Dade,Florida,12086,1,0.0
+2020-03-12,Oakland,Michigan,26125,2,0.0
+2020-03-12,Saratoga,New York,36091,1,0.0
+2020-03-12,Mecklenburg,North Carolina,37119,2,0.0
+2020-03-12,Minnehaha,South Dakota,46099,0,0.0
+2020-03-12,Jefferson,Colorado,8059,1,0.0
+2020-03-12,Gunnison,Colorado,8051,1,0.0
+2020-03-12,Stearns,Minnesota,27145,2,0.0
+2020-03-12,Spartanburg,South Carolina,45083,0,0.0
+2020-03-12,Montgomery,Kentucky,21173,1,0.0
+2020-03-12,Douglas,Colorado,8035,0,0.0
+2020-03-12,Davison,South Dakota,46035,0,0.0
+2020-03-12,Bucks,Pennsylvania,42017,0,0.0
+2020-03-12,Santa Cruz,California,6087,0,0.0
+2020-03-12,Island,Washington,53029,2,0.0
+2020-03-12,Monroe,Pennsylvania,42089,0,0.0
+2020-03-12,Waukesha,Wisconsin,55133,0,0.0
+2020-03-12,Monroe,New York,36055,0,0.0
+2020-03-12,Jefferson,Kentucky,21111,1,0.0
+2020-03-12,Gregg,Texas,48183,0,0.0
+2020-03-12,DeKalb,Georgia,13089,0,0.0
+2020-03-12,Norfolk,Massachusetts,25021,2,0.0
+2020-03-12,Monmouth,New Jersey,34025,1,0.0
+2020-03-12,Santa Fe,New Mexico,35049,1,0.0
+2020-03-12,Noble,Indiana,18113,0,0.0
+2020-03-13,Unknown,New Jersey,-1,0,0.0
+2020-03-13,Ventura,California,6111,3,0.0
+2020-03-13,Summit,Colorado,8117,2,0.0
+2020-03-13,Yellowstone,Montana,30111,1,0.0
+2020-03-13,Sonoma,California,6097,0,0.0
+2020-03-13,Terrebonne,Louisiana,22109,1,0.0
+2020-03-13,Worcester,Massachusetts,25027,0,0.0
+2020-03-13,Wright,Minnesota,27171,1,0.0
+2020-03-13,San Benito,California,6069,1,0.0
+2020-03-13,Tarrant,Texas,48439,1,0.0
+2020-03-13,Salt Lake,Utah,49035,0,0.0
+2020-03-13,Umatilla,Oregon,41059,0,0.0
+2020-03-13,Union,New Jersey,34039,0,0.0
+2020-03-13,Thurston,Washington,53067,2,0.0
+2020-03-13,Wyandotte,Kansas,20209,0,0.0
+2020-03-13,Solano,California,6095,0,0.0
+2020-03-13,Yakima,Washington,53077,0,0.0
+2020-03-13,Unknown,Rhode Island,-1,15,0.0
+2020-03-13,Unknown,Puerto Rico,-1,3,0.0
+2020-03-13,San Mateo,California,6081,0,0.0
+2020-03-13,Socorro,New Mexico,35053,0,0.0
+2020-03-13,Saratoga,New York,36091,0,0.0
+2020-03-13,Suffolk,Massachusetts,25025,4,0.0
+2020-03-13,Stark,Ohio,39151,0,0.0
+2020-03-13,Weld,Colorado,8123,1,0.0
+2020-03-13,Sarasota,Florida,12115,0,0.0
+2020-03-13,Weber,Utah,49057,0,0.0
+2020-03-13,Santa Rosa,Florida,12113,0,0.0
+2020-03-13,Trumbull,Ohio,39155,0,0.0
+2020-03-13,Stearns,Minnesota,27145,0,0.0
+2020-03-13,Santa Fe,New Mexico,35049,1,0.0
+2020-03-13,Santa Cruz,California,6087,0,0.0
+2020-03-13,Santa Clara,California,6085,13,1.0
+2020-03-13,Schenectady,New York,36093,1,0.0
+2020-03-13,San Francisco,California,6075,5,0.0
+2020-03-13,Washington,Oregon,41067,0,0.0
+2020-03-13,Washington,Pennsylvania,42125,1,0.0
+2020-03-13,Wayne,Pennsylvania,42127,0,0.0
+2020-03-13,Tuscaloosa,Alabama,1125,1,0.0
+2020-03-13,Tulsa,Oklahoma,40143,0,0.0
+2020-03-13,Washington,Utah,49053,0,0.0
+2020-03-13,Wayne,North Carolina,37191,1,0.0
+2020-03-13,Wayne,Michigan,26163,5,0.0
+2020-03-13,Washoe,Nevada,32031,0,0.0
+2020-03-13,Waukesha,Wisconsin,55133,0,0.0
+2020-03-13,Tulare,California,6107,1,0.0
+2020-03-13,Washtenaw,Michigan,26161,1,0.0
+2020-03-13,San Joaquin,California,6077,5,0.0
+2020-03-13,Williamson,Tennessee,47187,1,0.0
+2020-03-13,Seminole,Florida,12117,0,0.0
+2020-03-13,Shasta,California,6089,0,0.0
+2020-03-13,Virginia Beach city,Virginia,51810,0,0.0
+2020-03-13,Snohomish,Washington,53061,25,0.0
+2020-03-13,Sullivan,Tennessee,47163,0,0.0
+2020-03-13,Ulster,New York,36111,1,0.0
+2020-03-13,Volusia,Florida,12127,1,0.0
+2020-03-13,Spokane,Washington,53063,0,0.0
+2020-03-13,Whatcom,Washington,53073,0,0.0
+2020-03-13,St. Charles,Louisiana,22089,1,0.0
+2020-03-13,Travis,Texas,48453,4,0.0
+2020-03-13,St. Clair,Michigan,26147,0,0.0
+2020-03-13,Wake,North Carolina,37183,1,0.0
+2020-03-13,St. Johns,Florida,12109,0,0.0
+2020-03-13,Stanislaus,California,6099,0,0.0
+2020-03-13,Smith,Texas,48423,3,0.0
+2020-03-13,Silver Bow,Montana,30093,1,0.0
+2020-03-13,Sheridan,Wyoming,56033,0,0.0
+2020-03-13,Shelby,Tennessee,47157,0,0.0
+2020-03-13,Westchester,New York,36119,10,0.0
+2020-03-13,San Diego,California,6073,4,0.0
+2020-03-13,St. Joseph,Indiana,18141,0,0.0
+2020-03-13,Walla Walla,Washington,53071,0,0.0
+2020-03-13,Suffolk,New York,36103,8,0.0
+2020-03-13,Ward,North Dakota,38101,0,0.0
+2020-03-13,St. Louis,Missouri,29189,1,0.0
+2020-03-13,St. Tammany,Louisiana,22103,2,0.0
+2020-03-13,Sheboygan,Wisconsin,55117,3,0.0
+2020-03-13,Skagit,Washington,53057,1,0.0
+2020-03-13,Spartanburg,South Carolina,45083,0,0.0
+2020-03-13,Ada,Idaho,16001,1,0.0
+2020-03-13,Sacramento,California,6067,0,0.0
+2020-03-13,Kane,Illinois,17089,0,0.0
+2020-03-13,Kent,Michigan,26081,0,0.0
+2020-03-13,Chester,Pennsylvania,42029,1,0.0
+2020-03-13,Kershaw,South Carolina,45055,1,0.0
+2020-03-13,King,Washington,53033,58,5.0
+2020-03-13,Cherokee,Georgia,13057,3,0.0
+2020-03-13,Chittenden,Vermont,50007,0,0.0
+2020-03-13,Kitsap,Washington,53035,1,0.0
+2020-03-13,Chelan,Washington,53007,0,0.0
+2020-03-13,Klamath,Oregon,41035,0,0.0
+2020-03-13,Chatham,North Carolina,37037,0,0.0
+2020-03-13,Knox,Tennessee,47093,0,0.0
+2020-03-13,Charlton,Georgia,13049,0,0.0
+2020-03-13,Lake,Illinois,17097,1,0.0
+2020-03-13,Kittitas,Washington,53037,0,0.0
+2020-03-13,Charlotte,Florida,12015,0,0.0
+2020-03-13,Johnston,North Carolina,37101,0,0.0
+2020-03-13,Clackamas,Oregon,41005,0,0.0
+2020-03-13,James City,Virginia,51095,5,0.0
+2020-03-13,Jefferson,Alabama,1073,2,0.0
+2020-03-13,Clear Creek,Colorado,8019,1,0.0
+2020-03-13,Jefferson,Arkansas,5069,0,0.0
+2020-03-13,Jefferson,Colorado,8059,2,0.0
+2020-03-13,Clay,Florida,12019,0,0.0
+2020-03-13,Johnson,Kansas,20091,0,0.0
+2020-03-13,Jefferson,Kentucky,21111,0,0.0
+2020-03-13,Clark,Washington,53011,2,0.0
+2020-03-13,Jefferson,Tennessee,47089,1,0.0
+2020-03-13,Jefferson,Washington,53031,0,0.0
+2020-03-13,Johnson,Indiana,18081,0,0.0
+2020-03-13,Clark,Nevada,32003,8,0.0
+2020-03-13,Johnson,Iowa,19103,0,0.0
+2020-03-13,Jefferson,Louisiana,22051,2,0.0
+2020-03-13,Lancaster,South Carolina,45057,0,0.0
+2020-03-13,Larimer,Colorado,8069,0,0.0
+2020-03-13,Charlevoix,Michigan,26029,1,0.0
+2020-03-13,Madera,California,6039,0,0.0
+2020-03-13,Camden,New Jersey,34007,1,0.0
+2020-03-13,Manatee,Florida,12081,2,0.0
+2020-03-13,Yolo,California,6113,1,0.0
+2020-03-13,Maricopa,Arizona,4013,0,0.0
+2020-03-13,Marin,California,6041,0,0.0
+2020-03-13,Macomb,Michigan,26099,1,0.0
+2020-03-13,Caddo,Louisiana,22017,0,0.0
+2020-03-13,Cabarrus,North Carolina,37025,0,0.0
+2020-03-13,Marion,Oregon,41047,0,0.0
+2020-03-13,McCook,South Dakota,46087,1,0.0
+2020-03-13,Butler,Kansas,20015,1,0.0
+2020-03-13,McHenry,Illinois,17111,0,0.0
+2020-03-13,Burlington,New Jersey,34005,1,0.0
+2020-03-13,Marion,Indiana,18097,0,0.0
+2020-03-13,Carroll,Iowa,19027,0,0.0
+2020-03-13,Lowndes,Georgia,13185,0,0.0
+2020-03-13,Carson City,Nevada,32510,0,0.0
+2020-03-13,Lee,Florida,12071,0,0.0
+2020-03-13,Lee,Georgia,13177,0,0.0
+2020-03-13,Charleston,South Carolina,45019,0,0.0
+2020-03-13,Leelanau,Michigan,26089,1,0.0
+2020-03-13,Leflore,Mississippi,28083,1,0.0
+2020-03-13,Charles Mix,South Dakota,46023,0,0.0
+2020-03-13,Lewis and Clark,Montana,30049,1,0.0
+2020-03-13,Charles,Maryland,24017,1,0.0
+2020-03-13,Limestone,Alabama,1083,1,0.0
+2020-03-13,Linn,Oregon,41043,0,0.0
+2020-03-13,Cass,Nebraska,31025,0,0.0
+2020-03-13,Litchfield,Connecticut,9005,2,0.0
+2020-03-13,Carver,Minnesota,27019,0,0.0
+2020-03-13,Los Angeles,California,6037,8,0.0
+2020-03-13,Loudoun,Virginia,51107,1,0.0
+2020-03-13,Cobb,Georgia,13067,0,0.0
+2020-03-13,Jackson,Oregon,41029,0,0.0
+2020-03-13,Collier,Florida,12021,0,0.0
+2020-03-13,Island,Washington,53029,0,0.0
+2020-03-13,Fort Bend,Texas,48157,3,0.0
+2020-03-13,Deschutes,Oregon,41017,0,0.0
+2020-03-13,Fremont,Wyoming,56013,1,0.0
+2020-03-13,Fresno,California,6019,0,0.0
+2020-03-13,Denver,Colorado,8031,8,0.0
+2020-03-13,Fulton,Georgia,13121,0,0.0
+2020-03-13,District of Columbia,District of Columbia,11001,0,0.0
+2020-03-13,Gallatin,Montana,30031,1,0.0
+2020-03-13,Delaware,Pennsylvania,42045,5,0.0
+2020-03-13,Gordon,Georgia,13129,2,0.0
+2020-03-13,Grafton,New Hampshire,33009,0,0.0
+2020-03-13,Delaware,New York,36025,0,0.0
+2020-03-13,Grant,Washington,53025,1,0.0
+2020-03-13,DeKalb,Georgia,13089,0,0.0
+2020-03-13,Galveston,Texas,48167,1,0.0
+2020-03-13,Forsyth,North Carolina,37067,0,0.0
+2020-03-13,Forrest,Mississippi,28035,2,0.0
+2020-03-13,Douglas,Colorado,8035,1,0.0
+2020-03-13,El Paso,Colorado,8041,1,1.0
+2020-03-13,Elmore,Alabama,1051,1,0.0
+2020-03-13,Eagle,Colorado,8037,5,0.0
+2020-03-13,Essex,Massachusetts,25009,0,0.0
+2020-03-13,Essex,New Jersey,34013,5,0.0
+2020-03-13,Duval,Florida,12031,0,0.0
+2020-03-13,Fairfax,Virginia,51059,2,0.0
+2020-03-13,Dutchess,New York,36027,2,0.0
+2020-03-13,Douglas,Oregon,41019,0,0.0
+2020-03-13,Fairfield,Connecticut,9001,3,0.0
+2020-03-13,Fayette,Georgia,13113,0,0.0
+2020-03-13,Douglas,Nebraska,31055,3,0.0
+2020-03-13,Fayette,Kentucky,21067,0,0.0
+2020-03-13,Floyd,Georgia,13115,0,0.0
+2020-03-13,Fond du Lac,Wisconsin,55039,4,0.0
+2020-03-13,Grays Harbor,Washington,53027,0,0.0
+2020-03-13,Mecklenburg,North Carolina,37119,0,0.0
+2020-03-13,Greene,Missouri,29077,0,0.0
+2020-03-13,Gregg,Texas,48183,0,0.0
+2020-03-13,Copiah,Mississippi,28029,1,0.0
+2020-03-13,Henry,Georgia,13151,1,0.0
+2020-03-13,Henry,Missouri,29083,1,0.0
+2020-03-13,Herkimer,New York,36043,0,0.0
+2020-03-13,Cook,Illinois,17031,13,0.0
+2020-03-13,Hillsborough,Florida,12057,0,0.0
+2020-03-13,Hennepin,Minnesota,27053,2,0.0
+2020-03-13,Honolulu,Hawaii,15003,0,0.0
+2020-03-13,Howard,Indiana,18067,0,0.0
+2020-03-13,Hudson,New Jersey,34017,2,0.0
+2020-03-13,Columbia,Washington,53013,0,0.0
+2020-03-13,Humboldt,California,6023,0,0.0
+2020-03-13,Ingham,Michigan,26065,0,0.0
+2020-03-13,Collin,Texas,48085,1,0.0
+2020-03-13,Contra Costa,California,6013,16,0.0
+2020-03-13,Hendricks,Indiana,18063,0,0.0
+2020-03-13,Cumberland,Maine,23005,1,0.0
+2020-03-13,Cumberland,Pennsylvania,42041,3,0.0
+2020-03-13,Gunnison,Colorado,8051,1,0.0
+2020-03-13,Gwinnett,Georgia,13135,0,0.0
+2020-03-13,Davis,Utah,49011,0,0.0
+2020-03-13,Hamilton,Tennessee,47065,1,0.0
+2020-03-13,Davidson,Tennessee,47037,4,0.0
+2020-03-13,Hanover,Virginia,51085,0,0.0
+2020-03-13,Dane,Wisconsin,55025,1,0.0
+2020-03-13,Harford,Maryland,24025,0,0.0
+2020-03-13,Dallas,Texas,48113,1,0.0
+2020-03-13,Harris,Texas,48201,1,0.0
+2020-03-13,Harrison,Iowa,19085,1,0.0
+2020-03-13,Dakota,Minnesota,27037,1,0.0
+2020-03-13,Harrison,Kentucky,21097,0,0.0
+2020-03-13,Cuyahoga,Ohio,39035,8,0.0
+2020-03-13,Harrisonburg city,Virginia,51660,1,0.0
+2020-03-13,Davison,South Dakota,46035,0,0.0
+2020-03-13,Bucks,Pennsylvania,42017,1,0.0
+2020-03-13,El Paso,Texas,48141,1,0.0
+2020-03-13,Miami-Dade,Florida,12086,6,0.0
+2020-03-13,Oakland,Michigan,26125,3,0.0
+2020-03-13,Anchorage,Alaska,2020,0,0.0
+2020-03-13,Bell,Texas,48027,1,0.0
+2020-03-13,Placer,California,6061,0,0.0
+2020-03-13,Northampton,Pennsylvania,42095,0,0.0
+2020-03-13,Norfolk,Massachusetts,25021,0,0.0
+2020-03-13,Bennington,Vermont,50003,0,0.0
+2020-03-13,Polk,Georgia,13233,0,0.0
+2020-03-13,Noble,Indiana,18113,0,0.0
+2020-03-13,New York City,New York,-1,59,0.0
+2020-03-13,Polk,Oregon,41053,0,0.0
+2020-03-13,Beadle,South Dakota,46005,0,0.0
+2020-03-13,New Castle,Delaware,10003,0,0.0
+2020-03-13,Bergen,New Jersey,34003,4,0.0
+2020-03-13,Anoka,Minnesota,27003,0,0.0
+2020-03-13,Prince Edward,Virginia,51147,0,0.0
+2020-03-13,Nassau,New York,36059,10,0.0
+2020-03-13,Alexandria city,Virginia,51510,0,0.0
+2020-03-13,Nassau,Florida,12089,0,0.0
+2020-03-13,Prince George's,Maryland,24033,2,0.0
+2020-03-13,Berkshire,Massachusetts,25003,0,0.0
+2020-03-13,Napa,California,6055,0,0.0
+2020-03-13,Prince William,Virginia,51153,1,0.0
+2020-03-13,Multnomah,Oregon,41051,0,0.0
+2020-03-13,Pottawattamie,Iowa,19155,0,0.0
+2020-03-13,Ocean,New Jersey,34029,1,0.0
+2020-03-13,Pitkin,Colorado,8097,0,0.0
+2020-03-13,Okaloosa,Florida,12091,0,0.0
+2020-03-13,Philadelphia,Pennsylvania,42101,2,0.0
+2020-03-13,Passaic,New Jersey,34031,1,0.0
+2020-03-13,Pasco,Florida,12101,0,0.0
+2020-03-13,Pierce,Washington,53053,2,0.0
+2020-03-13,Arapahoe,Colorado,8005,4,0.0
+2020-03-13,Palm Beach,Florida,12099,3,0.0
+2020-03-13,Osceola,Florida,12097,1,0.0
+2020-03-13,Pierce,Wisconsin,55093,0,0.0
+2020-03-13,Arlington,Virginia,51013,3,0.0
+2020-03-13,Orleans,Louisiana,22071,16,0.0
+2020-03-13,Orange,New York,36071,2,0.0
+2020-03-13,Baltimore,Maryland,24005,1,0.0
+2020-03-13,Pike,Pennsylvania,42103,0,0.0
+2020-03-13,Orange,Florida,12095,1,0.0
+2020-03-13,Orange,California,6059,7,0.0
+2020-03-13,Pima,Arizona,4019,0,0.0
+2020-03-13,Anne Arundel,Maryland,24003,1,0.0
+2020-03-13,Pinal,Arizona,4021,0,0.0
+2020-03-13,Bartow,Georgia,13015,4,0.0
+2020-03-13,Onslow,North Carolina,37133,0,0.0
+2020-03-13,Olmsted,Minnesota,27109,0,0.0
+2020-03-13,Pinellas,Florida,12103,0,0.0
+2020-03-13,Androscoggin,Maine,23001,0,0.0
+2020-03-13,Oklahoma,Oklahoma,40109,1,0.0
+2020-03-13,Bay,Michigan,26017,1,0.0
+2020-03-13,Bernalillo,New Mexico,35001,3,0.0
+2020-03-13,Morris,New Jersey,34027,2,0.0
+2020-03-13,Pearl River,Mississippi,28109,1,0.0
+2020-03-13,Boone,Indiana,18011,0,0.0
+2020-03-13,Montcalm,Michigan,26117,0,0.0
+2020-03-13,Ramsey,Minnesota,27123,1,0.0
+2020-03-13,Broward,Florida,12011,9,0.0
+2020-03-13,Adams,Colorado,8001,1,0.0
+2020-03-13,Routt,Colorado,8107,1,0.0
+2020-03-13,Monroe,Pennsylvania,42089,1,0.0
+2020-03-13,Alameda,California,6001,0,0.0
+2020-03-13,Middlesex,Massachusetts,25017,11,0.0
+2020-03-13,Middlesex,New Jersey,34023,2,0.0
+2020-03-13,Monroe,New York,36055,0,0.0
+2020-03-13,Milwaukee,Wisconsin,55079,2,0.0
+2020-03-13,Rockingham,New Hampshire,33015,1,0.0
+2020-03-13,Alachua,Florida,12001,1,0.0
+2020-03-13,Monmouth,New Jersey,34025,2,0.0
+2020-03-13,Adams,Indiana,18001,0,0.0
+2020-03-13,Minnehaha,South Dakota,46099,0,0.0
+2020-03-13,Riverside,California,6065,4,0.0
+2020-03-13,Racine,Wisconsin,55101,1,0.0
+2020-03-13,Rockland,New York,36087,2,0.0
+2020-03-13,Rutherford,Tennessee,47149,1,0.0
+2020-03-13,Albany,New York,36001,0,0.0
+2020-03-13,Pulaski,Arkansas,5119,1,0.0
+2020-03-13,Bexar,Texas,48029,0,0.0
+2020-03-13,Montgomery,Pennsylvania,42091,5,0.0
+2020-03-13,Pueblo,Colorado,8101,1,0.0
+2020-03-13,Montgomery,Kentucky,21173,0,0.0
+2020-03-13,Bon Homme,South Dakota,46009,0,0.0
+2020-03-13,Montgomery,Alabama,1101,1,0.0
+2020-03-13,Montgomery,Texas,48339,0,0.0
+2020-03-13,Montgomery,Maryland,24031,0,0.0
+2020-03-14,Anne Arundel,Maryland,24003,0,0.0
+2020-03-14,Unknown,Virgin Islands,-1,1,0.0
+2020-03-14,Adams,Indiana,18001,0,0.0
+2020-03-14,Dallas,Texas,48113,2,0.0
+2020-03-14,Woodford,Illinois,17203,1,0.0
+2020-03-14,Adams,Colorado,8001,3,0.0
+2020-03-14,Unknown,Rhode Island,-1,0,0.0
+2020-03-14,El Paso,Colorado,8041,1,0.0
+2020-03-14,Dallas,Iowa,19049,1,0.0
+2020-03-14,Trumbull,Ohio,39155,1,0.0
+2020-03-14,Winnebago,Wisconsin,55139,1,0.0
+2020-03-14,Dakota,Minnesota,27037,0,0.0
+2020-03-14,Tulare,California,6107,1,0.0
+2020-03-14,Cumberland,Pennsylvania,42041,0,0.0
+2020-03-14,Ada,Idaho,16001,1,0.0
+2020-03-14,Williamson,Tennessee,47187,1,0.0
+2020-03-14,Dane,Wisconsin,55025,1,0.0
+2020-03-14,Windsor,Vermont,50027,2,0.0
+2020-03-14,Eagle,Colorado,8037,4,0.0
+2020-03-14,Cuyahoga,Ohio,39035,0,0.0
+2020-03-14,Duval,Florida,12031,0,0.0
+2020-03-14,Ulster,New York,36111,0,0.0
+2020-03-14,Unknown,Puerto Rico,-1,1,0.0
+2020-03-14,DuPage,Illinois,17043,1,0.0
+2020-03-14,Denver,Colorado,8031,6,0.0
+2020-03-14,Albany,New York,36001,3,0.0
+2020-03-14,Deschutes,Oregon,41017,2,0.0
+2020-03-14,Delaware,Pennsylvania,42045,0,0.0
+2020-03-14,Umatilla,Oregon,41059,0,0.0
+2020-03-14,Alameda,California,6001,0,0.0
+2020-03-14,District of Columbia,District of Columbia,11001,6,0.0
+2020-03-14,Delaware,New York,36025,0,0.0
+2020-03-14,Alexandria city,Virginia,51510,0,0.0
+2020-03-14,Yakima,Washington,53077,1,0.0
+2020-03-14,DeKalb,Georgia,13089,4,0.0
+2020-03-14,Worcester,Massachusetts,25027,0,0.0
+2020-03-14,Douglas,Colorado,8035,0,0.0
+2020-03-14,Allegheny,Pennsylvania,42003,1,0.0
+2020-03-14,Union,New Jersey,34039,0,0.0
+2020-03-14,Tuscarawas,Ohio,39157,1,0.0
+2020-03-14,Davison,South Dakota,46035,0,0.0
+2020-03-14,Tuscaloosa,Alabama,1125,1,0.0
+2020-03-14,Anchorage,Alaska,2020,0,0.0
+2020-03-14,Unknown,New Jersey,-1,0,0.0
+2020-03-14,Yellowstone,Montana,30111,0,0.0
+2020-03-14,Davis,Utah,49011,1,0.0
+2020-03-14,Tulsa,Oklahoma,40143,0,0.0
+2020-03-14,Wyandotte,Kansas,20209,0,0.0
+2020-03-14,Alachua,Florida,12001,0,0.0
+2020-03-14,Douglas,Nebraska,31055,2,0.0
+2020-03-14,Douglas,Oregon,41019,0,0.0
+2020-03-14,Davidson,Tennessee,47037,4,0.0
+2020-03-14,Androscoggin,Maine,23001,0,0.0
+2020-03-14,Dutchess,New York,36027,1,0.0
+2020-03-14,Wright,Minnesota,27171,0,0.0
+2020-03-14,Whatcom,Washington,53073,1,0.0
+2020-03-14,Cumberland,Illinois,17035,1,0.0
+2020-03-14,Wayne,North Carolina,37191,0,0.0
+2020-03-14,Boone,Indiana,18011,0,0.0
+2020-03-14,Washington,Pennsylvania,42125,0,0.0
+2020-03-14,Carson City,Nevada,32510,0,0.0
+2020-03-14,Washington,Oregon,41067,3,0.0
+2020-03-14,Carver,Minnesota,27019,0,0.0
+2020-03-14,Bon Homme,South Dakota,46009,0,0.0
+2020-03-14,Travis,Texas,48453,0,0.0
+2020-03-14,Carroll,Maryland,24013,1,0.0
+2020-03-14,Blaine,Idaho,16013,2,0.0
+2020-03-14,Bexar,Texas,48029,1,0.0
+2020-03-14,Charles Mix,South Dakota,46023,0,0.0
+2020-03-14,Bernalillo,New Mexico,35001,1,0.0
+2020-03-14,Charleston,South Carolina,45019,0,0.0
+2020-03-14,Wayne,Pennsylvania,42127,0,0.0
+2020-03-14,Charlevoix,Michigan,26029,0,0.0
+2020-03-14,Berkshire,Massachusetts,25003,0,0.0
+2020-03-14,Charlotte,Florida,12015,0,0.0
+2020-03-14,Charles,Maryland,24017,0,0.0
+2020-03-14,Carroll,Iowa,19027,0,0.0
+2020-03-14,Bossier,Louisiana,22015,1,0.0
+2020-03-14,Campbell,Tennessee,47013,1,0.0
+2020-03-14,Washoe,Nevada,32031,2,0.0
+2020-03-14,Washtenaw,Michigan,26161,1,0.0
+2020-03-14,Bucks,Pennsylvania,42017,1,0.0
+2020-03-14,Broward,Florida,12011,0,0.0
+2020-03-14,Burlington,New Jersey,34005,0,0.0
+2020-03-14,Broome,New York,36007,1,0.0
+2020-03-14,Butler,Kansas,20015,0,0.0
+2020-03-14,Butler,Ohio,39017,4,0.0
+2020-03-14,Waukesha,Wisconsin,55133,2,0.0
+2020-03-14,Cabarrus,North Carolina,37025,0,0.0
+2020-03-14,Bristol,Massachusetts,25005,1,0.0
+2020-03-14,Washington,Vermont,50023,1,0.0
+2020-03-14,Washington,Utah,49053,0,0.0
+2020-03-14,Brazoria,Texas,48039,2,0.0
+2020-03-14,Bourbon,Kentucky,21017,1,0.0
+2020-03-14,Caddo,Louisiana,22017,1,0.0
+2020-03-14,Boulder,Colorado,8013,1,0.0
+2020-03-14,Camden,New Jersey,34007,0,0.0
+2020-03-14,Wayne,Michigan,26163,2,0.0
+2020-03-14,Ward,North Dakota,38101,0,0.0
+2020-03-14,Charlton,Georgia,13049,0,0.0
+2020-03-14,Bergen,New Jersey,34003,14,0.0
+2020-03-14,Chatham,North Carolina,37037,0,0.0
+2020-03-14,Cobb,Georgia,13067,7,0.0
+2020-03-14,Barnstable,Massachusetts,25001,1,0.0
+2020-03-14,Baltimore,Maryland,24005,1,0.0
+2020-03-14,Collier,Florida,12021,0,0.0
+2020-03-14,Volusia,Florida,12127,0,0.0
+2020-03-14,Brunswick,North Carolina,37019,1,0.0
+2020-03-14,Collin,Texas,48085,2,0.0
+2020-03-14,Baldwin,Alabama,1003,1,0.0
+2020-03-14,Columbia,Washington,53013,0,0.0
+2020-03-14,Arlington,Virginia,51013,2,0.0
+2020-03-14,Contra Costa,California,6013,0,0.0
+2020-03-14,Arapahoe,Colorado,8005,3,0.0
+2020-03-14,Virginia Beach city,Virginia,51810,1,0.0
+2020-03-14,Cook,Illinois,17031,11,0.0
+2020-03-14,Anoka,Minnesota,27003,1,0.0
+2020-03-14,Copiah,Mississippi,28029,0,0.0
+2020-03-14,Coweta,Georgia,13077,2,0.0
+2020-03-14,Craven,North Carolina,37049,1,0.0
+2020-03-14,Ventura,California,6111,0,0.0
+2020-03-14,Clear Creek,Colorado,8019,0,0.0
+2020-03-14,Cumberland,Maine,23005,1,0.0
+2020-03-14,Bartow,Georgia,13015,0,0.0
+2020-03-14,Clay,Florida,12019,0,0.0
+2020-03-14,Walla Walla,Washington,53071,0,0.0
+2020-03-14,Weber,Utah,49057,0,0.0
+2020-03-14,Chelan,Washington,53007,0,0.0
+2020-03-14,Weld,Colorado,8123,1,0.0
+2020-03-14,Wells,Indiana,18179,1,0.0
+2020-03-14,Cherokee,Georgia,13057,0,0.0
+2020-03-14,Bennington,Vermont,50003,0,0.0
+2020-03-14,Chester,Pennsylvania,42029,1,0.0
+2020-03-14,Chesterfield,Virginia,51041,1,0.0
+2020-03-14,Belmont,Ohio,39013,2,0.0
+2020-03-14,Chittenden,Vermont,50007,0,0.0
+2020-03-14,Bell,Texas,48027,0,0.0
+2020-03-14,Clackamas,Oregon,41005,0,0.0
+2020-03-14,Beaufort,South Carolina,45013,3,0.0
+2020-03-14,Beadle,South Dakota,46005,0,0.0
+2020-03-14,Wake,North Carolina,37183,2,0.0
+2020-03-14,Clark,Nevada,32003,0,0.0
+2020-03-14,Bay,Michigan,26017,0,0.0
+2020-03-14,Clark,Washington,53011,0,0.0
+2020-03-14,Westchester,New York,36119,21,0.0
+2020-03-14,Cass,Nebraska,31025,0,0.0
+2020-03-14,Harford,Maryland,24025,1,0.0
+2020-03-14,Tioga,New York,36107,1,0.0
+2020-03-14,Sarasota,Florida,12115,0,0.0
+2020-03-14,Middlesex,Massachusetts,25017,5,0.0
+2020-03-14,Santa Rosa,Florida,12113,0,0.0
+2020-03-14,Middlesex,New Jersey,34023,4,0.0
+2020-03-14,Milwaukee,Wisconsin,55079,4,0.0
+2020-03-14,Minnehaha,South Dakota,46099,0,0.0
+2020-03-14,Missoula,Montana,30063,2,0.0
+2020-03-14,Monmouth,New Jersey,34025,1,1.0
+2020-03-14,Santa Fe,New Mexico,35049,0,0.0
+2020-03-14,Monroe,Michigan,26115,1,0.0
+2020-03-14,Monroe,New York,36055,1,0.0
+2020-03-14,Miami-Dade,Florida,12086,0,0.0
+2020-03-14,Santa Cruz,California,6087,0,0.0
+2020-03-14,Montcalm,Michigan,26117,0,0.0
+2020-03-14,Montgomery,Alabama,1101,0,0.0
+2020-03-14,Santa Clara,California,6085,12,0.0
+2020-03-14,Montgomery,Kentucky,21173,0,0.0
+2020-03-14,Montgomery,Maryland,24031,6,0.0
+2020-03-14,Montgomery,Pennsylvania,42091,2,0.0
+2020-03-14,Montgomery,Texas,48339,0,0.0
+2020-03-14,Morris,New Jersey,34027,2,0.0
+2020-03-14,Multnomah,Oregon,41051,0,1.0
+2020-03-14,Napa,California,6055,0,0.0
+2020-03-14,Nassau,Florida,12089,0,0.0
+2020-03-14,Monroe,Pennsylvania,42089,0,0.0
+2020-03-14,Mesa,Colorado,8077,1,0.0
+2020-03-14,Mercer,New Jersey,34021,1,0.0
+2020-03-14,Mecklenburg,North Carolina,37119,0,0.0
+2020-03-14,Linn,Oregon,41043,1,0.0
+2020-03-14,Litchfield,Connecticut,9005,0,0.0
+2020-03-14,Lorain,Ohio,39093,1,0.0
+2020-03-14,Smith,Texas,48423,0,0.0
+2020-03-14,Skagit,Washington,53057,0,0.0
+2020-03-14,Los Angeles,California,6037,13,0.0
+2020-03-14,Loudoun,Virginia,51107,2,0.0
+2020-03-14,Silver Bow,Montana,30093,0,0.0
+2020-03-14,Lowndes,Georgia,13185,0,0.0
+2020-03-14,Sheridan,Wyoming,56033,1,0.0
+2020-03-14,Macomb,Michigan,26099,1,0.0
+2020-03-14,Shelby,Tennessee,47157,0,0.0
+2020-03-14,Madera,California,6039,0,0.0
+2020-03-14,Manatee,Florida,12081,0,0.0
+2020-03-14,Maricopa,Arizona,4013,1,0.0
+2020-03-14,Sheboygan,Wisconsin,55117,0,0.0
+2020-03-14,Shasta,California,6089,0,0.0
+2020-03-14,Marin,California,6041,0,0.0
+2020-03-14,Marion,Indiana,18097,1,0.0
+2020-03-14,Marion,Oregon,41047,0,0.0
+2020-03-14,Seminole,Florida,12117,0,0.0
+2020-03-14,McCook,South Dakota,46087,0,0.0
+2020-03-14,Schenectady,New York,36093,0,0.0
+2020-03-14,Saratoga,New York,36091,0,0.0
+2020-03-14,McHenry,Illinois,17111,0,0.0
+2020-03-14,Nassau,New York,36059,28,0.0
+2020-03-14,Limestone,Alabama,1083,0,0.0
+2020-03-14,Nelson,Kentucky,21179,1,0.0
+2020-03-14,New Haven,Connecticut,9009,1,0.0
+2020-03-14,Pima,Arizona,4019,1,0.0
+2020-03-14,Pinal,Arizona,4021,0,0.0
+2020-03-14,Pinellas,Florida,12103,0,0.0
+2020-03-14,San Diego,California,6073,1,0.0
+2020-03-14,Pitkin,Colorado,8097,1,0.0
+2020-03-14,Placer,California,6061,1,0.0
+2020-03-14,Polk,Georgia,13233,0,0.0
+2020-03-14,Polk,Oregon,41053,0,0.0
+2020-03-14,Pottawattamie,Iowa,19155,0,0.0
+2020-03-14,Prince Edward,Virginia,51147,0,0.0
+2020-03-14,Prince George's,Maryland,24033,0,0.0
+2020-03-14,Pike,Pennsylvania,42103,0,0.0
+2020-03-14,Prince William,Virginia,51153,0,0.0
+2020-03-14,Pulaski,Arkansas,5119,1,0.0
+2020-03-14,Racine,Wisconsin,55101,0,0.0
+2020-03-14,Ramsey,Minnesota,27123,1,0.0
+2020-03-14,Renville,Minnesota,27129,1,0.0
+2020-03-14,Riverside,California,6065,0,0.0
+2020-03-14,Rockingham,New Hampshire,33015,0,0.0
+2020-03-14,San Benito,California,6069,0,0.0
+2020-03-14,Rockland,New York,36087,3,1.0
+2020-03-14,Salt Lake,Utah,49035,11,0.0
+2020-03-14,Routt,Colorado,8107,0,0.0
+2020-03-14,Rutherford,Tennessee,47149,0,0.0
+2020-03-14,Pueblo,Colorado,8101,0,0.0
+2020-03-14,Pierce,Wisconsin,55093,0,0.0
+2020-03-14,Pierce,Washington,53053,7,0.0
+2020-03-14,Philadelphia,Pennsylvania,42101,1,0.0
+2020-03-14,New York City,New York,-1,114,1.0
+2020-03-14,Noble,Indiana,18113,0,0.0
+2020-03-14,Norfolk,Massachusetts,25021,4,0.0
+2020-03-14,Northampton,Pennsylvania,42095,0,0.0
+2020-03-14,Sangamon,Illinois,17167,2,0.0
+2020-03-14,Sandoval,New Mexico,35043,2,0.0
+2020-03-14,San Mateo,California,6081,12,0.0
+2020-03-14,Oakland,Michigan,26125,3,0.0
+2020-03-14,Ocean,New Jersey,34029,0,0.0
+2020-03-14,Okaloosa,Florida,12091,0,0.0
+2020-03-14,Oklahoma,Oklahoma,40109,0,0.0
+2020-03-14,Olmsted,Minnesota,27109,0,0.0
+2020-03-14,Onslow,North Carolina,37133,0,0.0
+2020-03-14,San Luis Obispo,California,6079,1,0.0
+2020-03-14,San Joaquin,California,6077,0,0.0
+2020-03-14,Orange,California,6059,1,0.0
+2020-03-14,Orange,Florida,12095,0,0.0
+2020-03-14,San Francisco,California,6075,5,0.0
+2020-03-14,Orange,New York,36071,3,0.0
+2020-03-14,Orleans,Louisiana,22071,25,1.0
+2020-03-14,Osceola,Florida,12097,0,0.0
+2020-03-14,Palm Beach,Florida,12099,0,0.0
+2020-03-14,Pasco,Florida,12101,0,0.0
+2020-03-14,Passaic,New Jersey,34031,0,0.0
+2020-03-14,Pearl River,Mississippi,28109,0,0.0
+2020-03-14,New Castle,Delaware,10003,0,0.0
+2020-03-14,Lexington,South Carolina,45063,1,0.0
+2020-03-14,Lewis and Clark,Montana,30049,0,0.0
+2020-03-14,Leflore,Mississippi,28083,0,0.0
+2020-03-14,Galveston,Texas,48167,0,0.0
+2020-03-14,Gordon,Georgia,13129,0,0.0
+2020-03-14,Grafton,New Hampshire,33009,0,0.0
+2020-03-14,Graham,Arizona,4009,1,0.0
+2020-03-14,Grant,Washington,53025,0,0.0
+2020-03-14,Grays Harbor,Washington,53027,0,0.0
+2020-03-14,Greene,Missouri,29077,1,0.0
+2020-03-14,Stearns,Minnesota,27145,1,0.0
+2020-03-14,Gregg,Texas,48183,0,0.0
+2020-03-14,Stark,Ohio,39151,1,0.0
+2020-03-14,Gunnison,Colorado,8051,2,0.0
+2020-03-14,Gallatin,Montana,30031,0,0.0
+2020-03-14,Stanislaus,California,6099,0,0.0
+2020-03-14,Hamilton,Tennessee,47065,0,0.0
+2020-03-14,St. Tammany,Louisiana,22103,2,0.0
+2020-03-14,St. Louis,Missouri,29189,0,0.0
+2020-03-14,Hanover,Virginia,51085,0,0.0
+2020-03-14,Sacramento,California,6067,12,0.0
+2020-03-14,Harnett,North Carolina,37085,2,0.0
+2020-03-14,Harris,Texas,48201,1,0.0
+2020-03-14,St. Joseph,Indiana,18141,0,0.0
+2020-03-14,Harrison,Iowa,19085,0,0.0
+2020-03-14,Harrison,Kentucky,21097,2,0.0
+2020-03-14,St. Johns,Florida,12109,0,0.0
+2020-03-14,Gwinnett,Georgia,13135,0,0.0
+2020-03-14,Fulton,Georgia,13121,7,0.0
+2020-03-14,Fresno,California,6019,1,0.0
+2020-03-14,Fremont,Wyoming,56013,0,0.0
+2020-03-14,Thurston,Washington,53067,0,0.0
+2020-03-14,El Paso,Texas,48141,0,0.0
+2020-03-14,Elmore,Alabama,1051,0,0.0
+2020-03-14,Teton,Idaho,16081,1,0.0
+2020-03-14,Terrebonne,Louisiana,22109,1,0.0
+2020-03-14,Tarrant,Texas,48439,2,0.0
+2020-03-14,Essex,Massachusetts,25009,3,0.0
+2020-03-14,Essex,New Jersey,34013,1,0.0
+2020-03-14,Summit,Utah,49043,2,0.0
+2020-03-14,Summit,Ohio,39153,2,0.0
+2020-03-14,Summit,Colorado,8117,0,0.0
+2020-03-14,Fairfax,Virginia,51059,4,0.0
+2020-03-14,Sullivan,Tennessee,47163,0,0.0
+2020-03-14,Fairfield,Connecticut,9001,7,0.0
+2020-03-14,Fayette,Georgia,13113,3,0.0
+2020-03-14,Suffolk,New York,36103,12,0.0
+2020-03-14,Fayette,Kentucky,21067,1,0.0
+2020-03-14,Floyd,Georgia,13115,1,0.0
+2020-03-14,Fond du Lac,Wisconsin,55039,0,0.0
+2020-03-14,Suffolk,Massachusetts,25025,1,0.0
+2020-03-14,Forrest,Mississippi,28035,0,0.0
+2020-03-14,Forsyth,North Carolina,37067,0,0.0
+2020-03-14,Fort Bend,Texas,48157,0,0.0
+2020-03-14,Franklin,Kansas,20059,1,0.0
+2020-03-14,Franklin,Ohio,39049,1,0.0
+2020-03-14,Harrisonburg city,Virginia,51660,0,0.0
+2020-03-14,Hartford,Connecticut,9003,1,0.0
+2020-03-14,St. John the Baptist,Louisiana,22095,1,0.0
+2020-03-14,St. Clair,Michigan,26147,0,0.0
+2020-03-14,Solano,California,6095,0,0.0
+2020-03-14,Johnson,Indiana,18081,0,0.0
+2020-03-14,Johnson,Iowa,19103,0,0.0
+2020-03-14,Johnson,Kansas,20091,1,0.0
+2020-03-14,Johnston,North Carolina,37101,1,0.0
+2020-03-14,Kane,Illinois,17089,1,0.0
+2020-03-14,Kauai,Hawaii,15007,2,0.0
+2020-03-14,Kent,Michigan,26081,0,0.0
+2020-03-14,Kershaw,South Carolina,45055,2,0.0
+2020-03-14,King,Washington,53033,60,3.0
+2020-03-14,Kitsap,Washington,53035,0,0.0
+2020-03-14,Socorro,New Mexico,35053,0,0.0
+2020-03-14,Kittitas,Washington,53037,0,0.0
+2020-03-14,Klamath,Oregon,41035,0,0.0
+2020-03-14,Snohomish,Washington,53061,22,0.0
+2020-03-14,Klickitat,Washington,53039,1,0.0
+2020-03-14,Knox,Tennessee,47093,0,0.0
+2020-03-14,LaPorte,Indiana,18091,1,0.0
+2020-03-14,Lafourche,Louisiana,22057,1,0.0
+2020-03-14,Lake,Illinois,17097,1,0.0
+2020-03-14,Lancaster,South Carolina,45057,0,0.0
+2020-03-14,Larimer,Colorado,8069,0,0.0
+2020-03-14,Lee,Florida,12071,0,1.0
+2020-03-14,Lee,Georgia,13177,0,0.0
+2020-03-14,Leelanau,Michigan,26089,0,0.0
+2020-03-14,Jefferson,Washington,53031,0,0.0
+2020-03-14,Tompkins,New York,36109,1,0.0
+2020-03-14,Jefferson,Tennessee,47089,0,0.0
+2020-03-14,Jefferson,Kentucky,21111,2,0.0
+2020-03-14,Hays,Texas,48209,1,0.0
+2020-03-14,St. Clair,Illinois,17163,2,0.0
+2020-03-14,St. Charles,Louisiana,22089,1,0.0
+2020-03-14,Hendricks,Indiana,18063,0,0.0
+2020-03-14,Spotsylvania,Virginia,51177,1,0.0
+2020-03-14,Spokane,Washington,53063,3,0.0
+2020-03-14,Hennepin,Minnesota,27053,3,0.0
+2020-03-14,Henry,Georgia,13151,0,0.0
+2020-03-14,Henry,Missouri,29083,0,0.0
+2020-03-14,Herkimer,New York,36043,0,0.0
+2020-03-14,Hillsborough,Florida,12057,0,0.0
+2020-03-14,Honolulu,Hawaii,15003,0,0.0
+2020-03-14,Howard,Indiana,18067,0,0.0
+2020-03-14,Hudson,New Jersey,34017,2,0.0
+2020-03-14,Humboldt,California,6023,0,0.0
+2020-03-14,Spartanburg,South Carolina,45083,0,0.0
+2020-03-14,Ingham,Michigan,26065,0,0.0
+2020-03-14,Island,Washington,53029,3,0.0
+2020-03-14,Jackson,Oklahoma,40065,1,0.0
+2020-03-14,Jackson,Oregon,41029,0,0.0
+2020-03-14,Sonoma,California,6097,1,0.0
+2020-03-14,James City,Virginia,51095,1,1.0
+2020-03-14,Jefferson,Alabama,1073,4,0.0
+2020-03-14,Jefferson,Arkansas,5069,1,0.0
+2020-03-14,Jefferson,Colorado,8059,2,0.0
+2020-03-14,Jefferson,Louisiana,22051,8,0.0
+2020-03-14,Yolo,California,6113,0,0.0
